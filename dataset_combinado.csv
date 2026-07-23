@@ -1,0 +1,672 @@
+Site,Plot,PlotID,Year,Sample_ID,old_treeID,new_TreeID,family,genus,species,Type,C_percent,d13C_permil,N_percent,Cb_percent,d15N_permil,bulk_d13C_permil,herbarium_id,source_file,Elevation_m
+Sumaco,9.0,Sumaco_9,2006,p09-225,225.0,,Moraceae,Ficus,quijosana,,42.5781882406641,-28.691042928651,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,1.0,Sumaco_1,2006,p09-230,230.0,,Lauraceae,Ocotea,insularis,,45.4563180383186,-29.2898215792125,,,,,3343.0,Sumaco_cellulose.xlsx,
+Sumaco,9.0,Sumaco_9,2006,p09-231,231.0,,Clusiaceae,Clusia,,,45.7881012595237,-29.7833443922721,,,,,3342.0,Sumaco_cellulose.xlsx,2000.0
+Sumaco,9.0,Sumaco_9,2006,p09-233,233.0,8885.0,Icacinaceae,Calatola,costaricensis,,47.33,-29.45,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,9.0,Sumaco_9,2006,p09-235,235.0,3733.0,Icacinaceae,Calatola,costaricensis,,43.2614739420433,-30.1914627831869,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,10.0,Sumaco_10,2006,p10-238,238.0,3719.0,Clusiaceae,Chrysochlamys,membranacea,,43.1750429749971,-29.1777242740216,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,10.0,Sumaco_10,2006,p10-239,239.0,,Moraceae,Ficus,cuatrecasana,,44.3344993242018,-28.6675833195271,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,10.0,Sumaco_10,2006,p10-240,240.0,,Lauraceae,Persea,areolatocostae,,44.2458727648861,-27.8557723609192,,,,,1809.0,Sumaco_cellulose.xlsx,2000.0
+Sumaco,10.0,Sumaco_10,2006,p10-241,241.0,8878.0,Verbenaceae,Aegiphila,,,41.620000000000005,-28.75,,,,,1807.0,Sumaco_cellulose.xlsx,2000.0
+Sumaco,10.0,Sumaco_10,2006,p10-242,242.0,,Solanaceae,Solanum,cf anisophyllum,,42.9141459660883,-29.6218629548444,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,10.0,Sumaco_10,2006,p10-245,245.0,,Urticaceae,Urera,caracasana,,36.5623496456736,-27.6533178625144,,,,,1816.0,Sumaco_cellulose.xlsx,2000.0
+Sumaco,10.0,Sumaco_10,2006,p10-246,246.0,3723.0,Clusiaceae,Chrysochlamys,membranacea,,45.1806166221387,-27.1652494905388,,,,,1805.0,Sumaco_cellulose.xlsx,2000.0
+Sumaco,10.0,Sumaco_10,2006,p10-247,247.0,3712.0,Icacinaceae,Calatola,costaricensis,,76.9368506028989,-30.5663837108702,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,,Sumaco_<NA>,2006,p10-252,252.0,,Urticaceae,Urera,caracasana,,,,,,,,,Sumaco_cellulose.xlsx,
+Sumaco,10.0,Sumaco_10,2006,p10-256,256.0,,Urticaceae,Urera,caracasana,,39.8918376060115,-28.3945074213312,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,11.0,Sumaco_11,2006,p11-259,259.0,3695.0,Fabaceae,Erythrina,edulis,,43.79,-27.61,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,11.0,Sumaco_11,2006,p11-261,261.0,3694.0,Annonaceae,Annona,edulis,,45.1125979393396,-27.9244664787489,,,,,3350.0,Sumaco_cellulose.xlsx,2000.0
+Sumaco,11.0,Sumaco_11,2006,p11-266,266.0,3697.0,Moraceae,Ficus,americana,,43.76,-29.6,,,,,1824.0,Sumaco_cellulose.xlsx,2000.0
+Sumaco,11.0,Sumaco_11,2006,p11-267,267.0,3698.0,Moraceae,Ficus,americana,,49.7310917794353,-30.4931149796487,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,11.0,Sumaco_11,2006,p11-268,268.0,3699.0,Euphorbiaceae,Alchornea,,,43.8248714731102,-29.3348773156178,,,,,3352.0,Sumaco_cellulose.xlsx,2000.0
+Sumaco,11.0,Sumaco_11,2006,p11-270,270.0,3701.0,Sapindaceae,Allophylus,floribundus,,43.1332211262121,-27.6715784981717,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,11.0,Sumaco_11,2006,p11-271,271.0,3702.0,Myrtaceae,Eugenia,sericifolia,,43.5497134223014,-30.6491913352224,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,11.0,Sumaco_11,2006,p11-273,273.0,,Myrtaceae,Eugenia,sericifolia,,45.3986422403336,-30.3572750862626,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,11.0,Sumaco_11,2006,p11-274,274.0,3705.0,Clusiaceae,Chrysochlamys,membranacea,,44.7852235167152,-26.9269607541183,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,11.0,Sumaco_11,2006,p11-275,275.0,3706.0,Myrtaceae,Eugenia,sericifolia,,45.3924534488658,-30.6972862690986,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,12.0,Sumaco_12,2006,p12-279,279.0,3671.0,Moraceae,Ficus,americana ssp. andicola,,45.3214193454974,-27.6078797043558,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,12.0,Sumaco_12,2006,p12-282,282.0,3675.0,Lauraceae,Ocotea,oblonga,,45.5629479335066,-27.3476311840613,,,,,1828.0,Sumaco_cellulose.xlsx,2000.0
+Sumaco,12.0,Sumaco_12,2006,p12-284,284.0,,Solanaceae,Cestrum,megalophyllum,,45.339589986843,-29.0522015320594,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,12.0,Sumaco_12,2006,p12-286,286.0,,Melastomataceae,Miconia,cf crebribullata,,45.4387316004706,-30.3166628504824,,,,,1834.0,Sumaco_cellulose.xlsx,2000.0
+Sumaco,12.0,Sumaco_12,2006,p12-288,288.0,,Rubiaceae,Palicourea,stenosepala,,42.060685358262,-29.1761788186366,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,12.0,Sumaco_12,2006,p12-289,289.0,3682.0,Sapindaceae,Allophylus,floribundus,,43.8939520158029,-29.4646253577153,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,12.0,Sumaco_12,2006,p12-290,290.0,3684.0,Malvaceae,Matisia,castano,,41.2956350056209,-28.8392452867696,,,,,1831.0,Sumaco_cellulose.xlsx,2000.0
+Sumaco,,Sumaco_<NA>,2006,p12-304,304.0,3666.0,Sapindaceae,Allophylus,floribundus,,,,,,,,1833.0,Sumaco_cellulose.xlsx,
+Sumaco,12.0,Sumaco_12,2006,p12-305,305.0,3669.0,Sapindaceae,Allophylus,floribundus,,43.524648630114,-28.0622478812585,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,12.0,Sumaco_12,2006,p12-309,309.0,3661.0,Euphorbiaceae,Alchornea,cf latifolia,,44.374194365733,-30.4514427323259,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,13.0,Sumaco_13,2006,p13-310,310.0,,Euphorbiaceae,Sapium,stylare,,44.2817602233826,-27.348488298905,,,,,3369.0,Sumaco_cellulose.xlsx,2000.0
+Sumaco,13.0,Sumaco_13,2006,p13-312,312.0,,Clusiaceae,Chrysochlamys,membranacea,,43.4898544018017,-27.3696399240427,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,13.0,Sumaco_13,2006,p13-314,314.0,,Fabaceae,Erythrina,edulis,,44.3759437959195,-27.8624718850356,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,,Sumaco_<NA>,2006,p13-315,315.0,,Fabaceae,Dussia,tessmannii,,,,,,,,3367.0,Sumaco_cellulose.xlsx,
+Sumaco,13.0,Sumaco_13,2006,p13-318,318.0,,Melastomataceae,Blakea,subconnata,,42.9349665773359,-29.0016631278379,,,,,3368.0,Sumaco_cellulose.xlsx,2000.0
+Sumaco,13.0,Sumaco_13,2006,p13-320,320.0,3715.0,Phyllanthaceae,Hyeronima,asperifolia,,42.66,-25.52,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,13.0,Sumaco_13,2006,p13-329,329.0,,Fabaceae,Erythrina,edulis,,45.5355671369228,-26.1346309867447,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,13.0,Sumaco_13,2006,p13-331,331.0,,Clusiaceae,Chrysochlamys,membranacea,,45.0144435812329,-28.9309283713132,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,13.0,Sumaco_13,2006,p13-332,332.0,,Melastomataceae,Miconia,cf crebribullata,,44.8018970593315,-28.0134713537845,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,13.0,Sumaco_13,2006,p13-334,334.0,,Euphorbiaceae,Alchornea,cf latifolia,,41.969314699153,-28.7092371183263,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,9.0,Sumaco_9,2025,p09-3730,233.0,3730.0,Metteniusaceae,Calatola,costaricensis,,46.64,-30.84,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,9.0,Sumaco_9,2025,p09-3733,235.0,3733.0,Metteniusaceae,Calatola,costaricensis,,47.83,-30.5,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,9.0,Sumaco_9,2025,p09-3735,,3735.0,Sapindaceae,Allophylus,sp,,45.85,-28.06,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,9.0,Sumaco_9,2025,p09-3732,,3732.0,Clusiaceae,Chrysochlamys,membranacea,,44.13,-28.99,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,9.0,Sumaco_9,2025,p09-3729,,3729.0,Moraceae,Ficus,quijosana,,46.3416317061715,-32.4044783932959,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,9.0,Sumaco_9,2025,p09-3734,,3734.0,Sapindaceae,Allophylus,floribundus,,43.52,-30.17,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,9.0,Sumaco_9,2025,p09-3728,,3728.0,Solanaceae,Solanum,cf anisophyllum,,41.3386472132902,-30.5557000095552,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,10.0,Sumaco_10,2025,p10-3719,238.0,3719.0,Clusiaceae,Chrysochlamys,membranacea,,43.2029373758143,-27.9462456467753,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,10.0,Sumaco_10,2025,p10-3725,244.0,3725.0,Salicaceae,Casearia,tachirensis,,44.8953963013407,-29.7281516293912,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,10.0,Sumaco_10,2025,p10-3723,246.0,3723.0,Clusiaceae,Chrysochlamys,membranacea,,44.0046885175879,-31.024169600788,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,10.0,Sumaco_10,2025,p10-3712,247.0,3712.0,Metteniusaceae,Calatola,costaricensis,,46.28,-31.2,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,10.0,Sumaco_10,2025,p10-3711,249.0,3711.0,Myrtaceae,Myrcia,aliena,,46.03,-29.43,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,10.0,Sumaco_10,2025,p10-3714,251.0,3714.0,Moraceae,Ficus,cuatrecasana,,44.44,-29.42,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,10.0,Sumaco_10,2025,p10-3716,254.0,3716.0,Sabiaceae,Meliosma,frondosa,,43.95,-29.85,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,10.0,Sumaco_10,2025,p10-3715,,8885.0,Melastomataceae,Miconia,aff glaucescens,,36.69,-29.13,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,10.0,Sumaco_10,2025,p10-3708,,3708.0,Solanaceae,Solanum,cf anisophyllum,,44.4056776989552,-29.2042613115713,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,11.0,Sumaco_11,2025,p11-3695,259.0,3695.0,Fabaceae,Erythrina,edulis,,44.59,-29.18,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,11.0,Sumaco_11,2025,p11-3696,260.0,3696.0,Myrtaceae,Eugenia,sericifolia,,48.1213918396029,-27.7502853493883,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,11.0,Sumaco_11,2025,p11-3694,261.0,3694.0,Annonaceae,Annona,edulis,,44.5360243797402,-29.9369094816932,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,11.0,Sumaco_11,2025,p11-3697,266.0,3697.0,Moraceae,Ficus,americana,,46.3914089797572,-29.7621659614053,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,11.0,Sumaco_11,2025,p11-3699,268.0,3699.0,Euphorbiaceae,Alchornea,,,46.783402092024,-26.8080291546299,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,11.0,Sumaco_11,2025,p11-3705,274.0,3705.0,Clusiaceae,Chrysochlamys,membranacea,,44.4928999706436,-28.5154217972384,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,11.0,Sumaco_11,2025,p11-3706,275.0,3706.0,Myrtaceae,Eugenia,sericifolia,,47.53,-29.99,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,11.0,Sumaco_11,2025,p11-3707,277.0,3707.0,Sapindaceae,Allophylus,floribundus,,44.0,-29.58,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,11.0,Sumaco_11,2025,p11-3703,,3703.0,Cannabaceae,Trema,micranthum,,,,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,12.0,Sumaco_12,2025,p12-3671,279.0,3671.0,Moraceae,Ficus,americana ssp. andicola,,45.2362896630833,-30.1482582574746,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,12.0,Sumaco_12,2025,p12-3675,282.0,3675.0,Lauraceae,Ocotea,oblonga,,44.2398053054314,-30.9215739411336,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,12.0,Sumaco_12,2025,p12-3682,289.0,3682.0,Sapindaceae,Allophylus,floribundus,,45.83,-30.7,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,12.0,Sumaco_12,2025,p12-3678,293.0,3678.0,Malvaceae,Matisia,castano,,45.7,-28.51,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,12.0,Sumaco_12,2025,p12-3669,305.0,3669.0,Sapindaceae,Allophylus,floribundus,,45.09,-29.57,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,12.0,Sumaco_12,2025,p12-3683,,3683.0,Solanaceae,Cestrum,megalophyllum,,44.1934043034891,-29.60077378611,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,12.0,Sumaco_12,2025,p12-3661,309.0,3661.0,Euphorbiaceae,Alchornea,cf latifolia,,42.626780717446,-29.5042088097356,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,12.0,Sumaco_12,2025,p12-3665,,3665.0,Clusiaceae,Chrysochlamys,membranacea,,42.4669432683905,-27.9248796397274,,,,,,Sumaco_cellulose.xlsx,2000.0
+Sumaco,16.0,Sumaco_16,2025,p16-3745,380.0,3745.0,Myrtaceae,Eugenia,,,43.6393025590442,-28.5993741017047,,,,,,Sumaco_cellulose.xlsx,1500.0
+Sumaco,16.0,Sumaco_16,2025,p16-3746,381.0,3746.0,Burseraceae,Protium,,,44.7891446461423,-28.4742516013152,,,,,,Sumaco_cellulose.xlsx,1500.0
+Sumaco,16.0,Sumaco_16,2025,p16-3747,386.0,3747.0,Moraceae,Perebea,xanthochyma,,44.3562337040605,-31.0437960900488,,,,,,Sumaco_cellulose.xlsx,1500.0
+Sumaco,16.0,Sumaco_16,2025,p16-3740,389.0,3740.0,Burseraceae,Protium,,,44.4423161856357,-29.2027014618564,,,,,,Sumaco_cellulose.xlsx,1500.0
+Sumaco,16.0,Sumaco_16,2025,p16-3739,396.0,3739.0,Fabaceae,Inga,,,44.0953546333809,-29.6131347716613,,,,,,Sumaco_cellulose.xlsx,1500.0
+Sumaco,16.0,Sumaco_16,2025,p16-3757,399.0,3757.0,Lauraceae,Cryptocarya,,,44.5613269545991,-31.1476958478239,,,,,,Sumaco_cellulose.xlsx,1500.0
+Sumaco,18.0,Sumaco_18,2025,p18-3763,427.0,3763.0,Fabaceae,Inga,,,45.75,-30.22,,,,,,Sumaco_cellulose.xlsx,1500.0
+Sumaco,18.0,Sumaco_18,2025,p18-3761,431.0,3761.0,Malpighiaceae,Bunchosia,,,48.7619621305523,-32.8848407954101,,,,,,Sumaco_cellulose.xlsx,1500.0
+Sumaco,18.0,Sumaco_18,2025,p18-3769,440.0,3769.0,Lauraceae,Ocotea,,,43.7921405430319,-28.2786435336902,,,,,,Sumaco_cellulose.xlsx,1500.0
+Sumaco,18.0,Sumaco_18,2025,p18-3767,441.0,3767.0,Fabaceae,,,,43.796045219721,-29.42478812595,,,,,,Sumaco_cellulose.xlsx,1500.0
+Sumaco,18.0,Sumaco_18,2025,p18-3770,,3770.0,Lauraceae,Aniba,coto,,44.2751425357342,-30.2490921408534,,,,,,Sumaco_cellulose.xlsx,1500.0
+Sumaco,18.0,Sumaco_18,2025,p18-3766,,3766.0,Lauraceae,,,,44.5825644590188,-31.8572011580476,,,,,,Sumaco_cellulose.xlsx,1500.0
+Sumaco,12.0,Sumaco_12,,p12-3686,,3686.0,,,,,43.53,-33.73,,,,,,Sumaco_cellulose.xlsx,2000.0
+Galeras,23.0,Galeras_23,2006,p23-557,557.0,,Quiinaceae,Lacunaria,crenata,leaf pulverized,45.55299539893652,-29.28958972049875,1.9123726429161678,48.55310575620023,1.96067777139575,-31.45873059218226,3737,Galeras_cellulose.xlsx,1000.0
+Galeras,23.0,Galeras_23,2006,p23-557,557.0,,Quiinaceae,Lacunaria,crenata,leaf pulverized,43.3604790180212,-29.4277878972228,1.9123726429161678,48.55310575620023,1.96067777139575,-31.45873059218226,3737,Galeras_cellulose.xlsx,1000.0
+Galeras,22.0,Galeras_22,2006,p22-550,550.0,,Melastomataceae,,,leaf pulverized,47.41139913597374,-29.7236591091723,2.523026048763594,46.50527989796192,4.37,-30.31,,Galeras_cellulose.xlsx,1000.0
+Galeras,22.0,Galeras_22,2006,p22-550,550.0,,Melastomataceae,,,leaf pulverized,47.2077120182068,-29.7239225267736,2.523026048763594,46.50527989796192,4.37,-30.31,,Galeras_cellulose.xlsx,1000.0
+Galeras,23.0,Galeras_23,2006,p23-561,561.0,8976.0,Rubiaceae,Faramea,multiflora,leaf pulverized,43.6899713373284,-31.6264690294987,,,,,2022,Galeras_cellulose.xlsx,1000.0
+Galeras,29.0,Galeras_29,2006,p29-763,763.0,,Myrtaceae,Eugenia,,leaf pulverized,48.0030201741165,-32.7973936923775,2.579598920779343,45.82337848686749,5.863820335636722,-33.21614289346554,3785,Galeras_cellulose.xlsx,1000.0
+Galeras,29.0,Galeras_29,2006,p29-768,768.0,,Violaceae,Leonia,glycycarpa,leaf pulverized,43.3065397064424,-29.5119266331101,2.231557524679357,44.831970373097576,2.002339585389931,-32.20649122807017,,Galeras_cellulose.xlsx,1000.0
+Galeras,29.0,Galeras_29,2006,p29-777,777.0,,Anacardiaceae,Tapirira,guianensis,leaf pulverized,44.474674657016,-29.3530869451066,2.035340091603006,46.50258464179985,0.9106120434353404,-30.9289727943046,3790,Galeras_cellulose.xlsx,1000.0
+Galeras,29.0,Galeras_29,2006,p29-781,781.0,,Phyllanthaceae,Margaritaria,nobilis,leaf pulverized,43.9302353069817,-32.7362039798789,3.035487404832049,44.38047110709548,1.769842053307009,-33.76217899822018,3792,Galeras_cellulose.xlsx,1000.0
+Galeras,23.0,Galeras_23,2006,p23-560,560.0,8982.0,Sapotaceae,Lucuma,multiflora,leaf pulverized,39.8249429922284,-29.806737041431,2.329127489213705,45.75489192207366,2.326812176909822,-31.96725832878209,3740,Galeras_cellulose.xlsx,1000.0
+Galeras,24.0,Galeras_24,2006,p24-596,596.0,,Lacistemataceae,Lacistema,,leaf pulverized,44.8594569938198,-30.0710220971368,1.9284466786336578,42.7318833293711,-1.860850086157381,-31.41884606382149,2070,Galeras_cellulose.xlsx,1000.0
+Galeras,24.0,Galeras_24,2006,p24-595,595.0,8654.0,Phyllanthaceae,Hieronyma,oblonga,leaf pulverized,44.1506423229927,-31.1408309707465,1.792686443191889,43.10417131105663,-1.99,-32.18,3689,Galeras_cellulose.xlsx,1000.0
+Galeras,24.0,Galeras_24,2006,p24-586,586.0,,Phyllanthaceae,Hieronyma,oblonga,leaf pulverized,43.0454571079634,-29.0879635790358,2.3500031065635008,44.33682462362868,-0.4878460654796098,-31.18951002574706,,Galeras_cellulose.xlsx,1000.0
+Galeras,24.0,Galeras_24,2006,p24-586,586.0,8638.0,Phyllanthaceae,Hieronyma,asperifolia,leaf pulverized,43.0454571079634,-29.0879635790358,2.3500031065635008,44.33682462362868,-0.4878460654796098,-31.18951002574706,,Galeras_cellulose.xlsx,1000.0
+Galeras,24.0,Galeras_24,2006,p24-583,583.0,,Lauraceae,Ocotea,floribunda,leaf pulverized,45.527935008181,-29.6269552131774,1.405546410699842,49.02381907905758,-1.26,-32.44,3683,Galeras_cellulose.xlsx,1000.0
+Galeras,29.0,Galeras_29,2006,p29-795,795.0,,Annonaceae,Guatteria,cf multivenia,leaf pulverized,44.1960844937982,-31.3592608763461,1.533899739410874,43.53491938687814,0.4046065479609418,-32.85468908480924,3797,Galeras_cellulose.xlsx,1000.0
+Galeras,22.0,Galeras_22,2006,p22-543,543.0,8962.0,Fabaceae,Jupunba,trapezifolia var. micradenia,leaf pulverized,43.4886846365052,-30.8130786583592,2.829417692417514,45.816205634993764,1.91,-31.89,2037,Galeras_cellulose.xlsx,1000.0
+Galeras,22.0,Galeras_22,2006,p22-538,538.0,,Sapindaceae,Allophylus,sp Galeras,leaf pulverized,44.1716029263925,-30.2827231573956,2.171498443086809,44.35332220175985,1.37,-32.59,,Galeras_cellulose.xlsx,1000.0
+Galeras,23.0,Galeras_23,2006,p23-559,559.0,8983.0,Lecythidaceae,Grias,peruviana,leaf pulverized,44.3129749791381,-29.5889762264672,1.904069946879364,43.75015651279461,1.112783810463968,-30.72292143401983,3739,Galeras_cellulose.xlsx,1000.0
+Galeras,23.0,Galeras_23,2006,p23-556,556.0,,Lauraceae,Pleurothyrium,insigne,leaf pulverized,45.0467775205119,-30.9498434726661,2.149380544039524,47.00220860030788,1.079666858127513,-32.15670983849575,2024,Galeras_cellulose.xlsx,1000.0
+Galeras,22.0,Galeras_22,2006,p22-546,546.0,,Violaceae,Gloeospermum,equatoriense,leaf pulverized,43.3392562736045,-31.7256951940085,2.301483593866714,40.932675336593825,2.58,-31.98,2049,Galeras_cellulose.xlsx,1000.0
+Galeras,22.0,Galeras_22,2006,p22-525,525.0,8948.0,Simaroubaceae,,,leaf pulverized,43.5026863007063,-28.6154153781686,1.493137378613984,44.97232382273588,2.14,-30.33,,Galeras_cellulose.xlsx,1000.0
+Galeras,29.0,Galeras_29,2006,p29-762,762.0,,Lacistemataceae,Lozania,mutisiana,leaf pulverized,42.9007810460878,-31.0084336493908,1.938491045921905,44.80625894250169,0.2131194471865744,-32.38163488431223,3784,Galeras_cellulose.xlsx,1000.0
+Galeras,29.0,Galeras_29,2006,p29-793,793.0,,Fabaceae,Inga,capitata,leaf pulverized,44.284787471556,-30.8766537667956,2.519147473075972,43.89243632531962,3.417541954590325,-32.61859394863971,,Galeras_cellulose.xlsx,1000.0
+Galeras,22.0,Galeras_22,2006,p22-541,541.0,,Meliaceae,Guarea,silvatica,leaf pulverized,44.7628534294191,-31.1345305708987,2.933085063780434,45.24764801394821,2.99,-32.34,2053,Galeras_cellulose.xlsx,1000.0
+Galeras,24.0,Galeras_24,2006,p24-580,580.0,8641.0,Moraceae,Sorocea,sp,leaf pulverized,42.1128334332028,-31.3205747520526,1.798726840614421,39.19901680145296,0.66,-31.65,,Galeras_cellulose.xlsx,1000.0
+Galeras,24.0,Galeras_24,2006,p24-585,585.0,8639.0,Lacistemataceae,Lozania,klugii,leaf pulverized,44.1163789549339,-31.5193635659915,1.698222842469201,44.12495801037915,-2.14,-32.91,2083,Galeras_cellulose.xlsx,1000.0
+Galeras,22.0,Galeras_22,2006,p22-522,522.0,,Myristicaceae,Virola,calophylla,leaf pulverized,44.3087215329995,-29.5363538839223,2.629721406005764,41.389200937081,4.52,-30.8,David,Galeras_cellulose.xlsx,1000.0
+Galeras,24.0,Galeras_24,2006,p24-598,598.0,8651.0,Caryocaraceae,Caryocar,glabrum,leaf pulverized,44.3600284136341,-29.1569031533291,1.449108009791741,42.71889469030765,-2.959253302699598,-29.61407115549661,2069,Galeras_cellulose.xlsx,1000.0
+Galeras,24.0,Galeras_24,2006,p24-611,611.0,8643.0,Melastomataceae,,,leaf pulverized,45.1697260885546,-27.8951960529949,1.605533186563507,37.8851131355276,-0.9912808730614592,-29.59412889131622,2067,Galeras_cellulose.xlsx,1000.0
+Galeras,29.0,Galeras_29,2006,p29-794,794.0,,Moraceae,Sorocea,trophoides,leaf pulverized,43.5287581436233,-31.4707104604046,1.8333119341279909,34.8947582234213,1.171200459506031,-31.807720215339,2502,Galeras_cellulose.xlsx,1000.0
+Galeras,29.0,Galeras_29,2006,p29-779,779.0,,Fabaceae,Inga,,leaf pulverized,43.9631431367933,-30.1573199362308,2.702442573378589,45.603089407575546,4.883287265547877,-32.2683066361556,3791,Galeras_cellulose.xlsx,1000.0
+Galeras,22.0,Galeras_22,2006,p22-537,537.0,8957.0,Lauraceae,Ocotea,oblonga,leaf pulverized,43.4767657286995,-28.6321393767579,2.364852931434891,48.77399996473799,-0.98,-31.22,2047,Galeras_cellulose.xlsx,1000.0
+Galeras,22.0,Galeras_22,2006,p22-548,548.0,,Sapotaceae,Chrysophyllum,venezuelanense,leaf pulverized,47.9929624870333,-30.2274375568906,1.382059850956835,45.46028314845653,0.3,-32.55,same as 3745,Galeras_cellulose.xlsx,1000.0
+Galeras,24.0,Galeras_24,2006,p24-592,592.0,8656.0,Rubiaceae,,,leaf pulverized,43.4558903121359,-29.0353282449297,3.436025577825637,47.26888591846104,-0.22,-31.74,3686,Galeras_cellulose.xlsx,1000.0
+Galeras,24.0,Galeras_24,2006,p24-584,584.0,,Vochysiaceae,,,leaf pulverized,43.7746904746501,-30.6557937400044,1.440119444329544,45.831377390414566,-0.85,-32.36,2079,Galeras_cellulose.xlsx,1000.0
+Galeras,24.0,Galeras_24,2006,p24-584,584.0,8640.0,Vochysiaceae,,,leaf pulverized,43.7746904746501,-30.6557937400044,1.440119444329544,45.831377390414566,-0.85,-32.36,,Galeras_cellulose.xlsx,1000.0
+Galeras,22.0,Galeras_22,2006,p22-535,535.0,8955.0,Myristicaceae,Virola,calophylla,leaf pulverized,45.804659120635,-30.1744819622071,2.359741981000591,47.3618494870587,2.76,-31.05,2045,Galeras_cellulose.xlsx,1000.0
+Galeras,23.0,Galeras_23,2006,p23-565,565.0,8972.0,Meliaceae,Guarea,pterorhachis,,,,2.02588111216678,45.35337885511843,0.2100976450315908,-33.00425606616213,,Galeras_cellulose.xlsx,1000.0
+Galeras,23.0,Galeras_23,2006,p23-578,578.0,,Fabaceae,Inga,leiocalycina,,,,2.731250225924158,42.488119270369516,1.411476163124641,-32.66523757509557,2021,Galeras_cellulose.xlsx,1000.0
+Galeras,23.0,Galeras_23,2006,p23-566,566.0,8631.0,Rubiaceae,Posoqueria,latifolia,,,,1.886422637028332,44.56981416018225,-0.595567620927937,-32.39193745232646,2016,Galeras_cellulose.xlsx,1000.0
+Galeras,29.0,Galeras_29,2006,p29-792,792.0,,Chrysobalanaceae,Hirtella,cf. schultesii,,,,1.7992371587603528,38.543766644987734,1.274521224086871,-33.11311721332316,"3796,2501",Galeras_cellulose.xlsx,1000.0
+Galeras,50.0,Galeras_50,2006,jh-3621,1465.0,8778.0,Lauraceae,Persea,aff. pseudofasciculata,leaf herbarium,45.865248457426,-31.0890832867233,,,,,3621,Galeras_cellulose.xlsx,1500.0
+Galeras,60.0,Galeras_60,2006,jh-3657,1813.0,8763.0,Lauraceae,Ocotea,,leaf herbarium,47.2527444857905,-30.3548040503321,,,,,3657,Galeras_cellulose.xlsx,1500.0
+Galeras,24.0,Galeras_24,2006,jh-2070,596.0,,Lacistemataceae,Lacistema,,leaf herbarium,45.3839858150379,-30.2505650268338,,,,,2070,Galeras_cellulose.xlsx,1000.0
+Galeras,22.0,Galeras_22,2006,jh-2053,541.0,,Meliaceae,Guarea,silvatica,leaf herbarium,42.7164489294743,-32.4842367140312,,,,,2053,Galeras_cellulose.xlsx,1000.0
+Galeras,28.0,Galeras_28,2006,jh-3600,724.0,,Olacaceae,,,leaf herbarium,53.8557358764967,-29.2935503374764,,,,,3600,Galeras_cellulose.xlsx,2000.0
+Galeras,23.0,Galeras_23,2006,jh-2034,570.0,8980.0,Moraceae,Sorocea,trophoides,leaf herbarium,42.9464182290098,-30.6019667295903,,,,,2034,Galeras_cellulose.xlsx,1000.0
+Galeras,50.0,Galeras_50,2006,jh-3620,1486.0,8615.0,Lauraceae,Ocotea, cf. longifolia,leaf herbarium,46.8515023190462,-27.7137667360763,,,,,3620,Galeras_cellulose.xlsx,1500.0
+Galeras,48.0,Galeras_48,2006,jh-3710,1414.0,8664.0,Moraceae,Pseudolmedia,laevis,leaf herbarium,45.3228924257647,-31.3997276174484,,,,,3710,Galeras_cellulose.xlsx,1000.0
+Galeras,62.0,Galeras_62,2006,jh-2531,1896.0,8904.0,Phyllanthaceae,Hieronyma,oblonga,leaf herbarium,44.5570835754965,-30.5469976395168,,,,,2531,Galeras_cellulose.xlsx,1500.0
+Galeras,60.0,Galeras_60,2006,jh-2525,1807.0,8769.0,Peraceae,Chaetocarpus,,leaf herbarium,45.7823754579709,-30.3566622790315,,,,,2525,Galeras_cellulose.xlsx,1500.0
+Galeras,48.0,Galeras_48,2006,jh-2456,1390.0,8686.0,Annonaceae,Guatteria,gentryi,leaf herbarium,43.9496696730377,-29.1318120030462,,,,,"3707,2456",Galeras_cellulose.xlsx,1000.0
+Galeras,50.0,Galeras_50,2006,jh-3625,1464.0,8800.0,Euphorbiaceae,Alchornea,triplinervia,leaf herbarium,45.4401972883233,-27.1383504370339,,,,,3625,Galeras_cellulose.xlsx,1500.0
+Galeras,48.0,Galeras_48,2006,jh-3698,1400.0,8672.0,Moraceae,Naucleopsis,ulei,leaf herbarium,44.35597340306,-27.1346821803577,,,,,3698,Galeras_cellulose.xlsx,1000.0
+Galeras,50.0,Galeras_50,2006,jh-3623,1495.0,8609.0,Simaroubaceae,Simarouba,amara,leaf herbarium,45.4280590398283,-29.8839085881914,,,,,3623,Galeras_cellulose.xlsx,1500.0
+Galeras,60.0,Galeras_60,2006,jh-3659,1804.0,8777.0,Lauraceae,Ocotea,,leaf herbarium,44.7846716829324,-32.3945640908721,,,,,3659 und 2524,Galeras_cellulose.xlsx,1500.0
+Galeras,62.0,Galeras_62,2006,jh-2529,1882.0,8909.0,Symplocaceae,Symplocos,cf guacamayensis,leaf herbarium,43.84,-32.97,,,,,"3612,2529",Galeras_cellulose.xlsx,1500.0
+Galeras,62.0,Galeras_62,2006,jh-3608,1894.0,,Lauraceae,Ocotea,aciphylla,leaf herbarium,45.67,-30.58,,,,,"3608,2530",Galeras_cellulose.xlsx,1500.0
+Galeras,28.0,Galeras_28,2006,jh-3582,755.0,8708.0,Lauraceae,Ocotea,subrutilans,leaf herbarium,46.66,-29.63,,,,,3582,Galeras_cellulose.xlsx,2000.0
+Galeras,48.0,Galeras_48,2006,jh-3706,1417.0,8658.0,Moraceae,Sorocea,sp.,leaf herbarium,44.99,-30.11,,,,,3706,Galeras_cellulose.xlsx,1000.0
+Galeras,62.0,Galeras_62,2006,jh-3607,1906.0,8911.0,Cunnoniaceae,Weinmannia,pinnata,leaf herbarium,46.08,-26.49,,,,,3607,Galeras_cellulose.xlsx,1500.0
+Galeras,28.0,Galeras_28,2006,jh-3580,757.0,8702.0,Peraceae,Chaetocarpus,,leaf herbarium,44.17,-31.78,,,,,3580,Galeras_cellulose.xlsx,2000.0
+Galeras,48.0,Galeras_48,2006,jh-3696,1411.0,8665.0,Moraceae,Helicostylis,tomentosa,leaf herbarium,46.66,-25.47,,,,,3696,Galeras_cellulose.xlsx,1000.0
+Galeras,48.0,Galeras_48,2006,jh-3703,1406.0,8666.0,Malpighiaceae,Byrsonima,,leaf herbarium,45.47,-33.67,,,,,"3703, 2461",Galeras_cellulose.xlsx,1000.0
+Galeras,60.0,Galeras_60,2006,jh-3662,1806.0,8743.0,Calophyllaceae,Marila,,leaf herbarium,47.76,-29.3,,,,,"3662, =2512",Galeras_cellulose.xlsx,1500.0
+Galeras,28.0,Galeras_28,2006,jh-3601,726.0,8733.0,Sapotaceae,Sapo28,,leaf herbarium,45.63,-29.26,,,,,3601,Galeras_cellulose.xlsx,2000.0
+Galeras,28.0,Galeras_28,2006,jh-3579,719.0,8735.0,Fabaceae,Diplotropis,aff purpurea,leaf herbarium,44.99,-30.63,,,,,"3579,2295",Galeras_cellulose.xlsx,2000.0
+Galeras,28.0,Galeras_28,2006,jh-3589,716.0,8736.0,Chrysobalanaceae,Moquilea,magnifructa,leaf herbarium,43.11,-28.93,,,,,3589,Galeras_cellulose.xlsx,2000.0
+Galeras,48.0,Galeras_48,2006,jh-3707,1390.0,8686.0,Annonaceae,Guatteria,gentryi,leaf herbarium,59.24,-29.78,,,,,"3707,2456",Galeras_cellulose.xlsx,1000.0
+Galeras,62.0,Galeras_62,2006,jh-3611,1901.0,8924.0,Rubiaceae,Rubi28,,leaf herbarium,45.19,-26.2,,,,,3611,Galeras_cellulose.xlsx,1500.0
+Galeras,62.0,Galeras_62,2006,jh-3595,1872.0,8920.0,,,,leaf herbarium,45.05,-28.6,,,,,3595,Galeras_cellulose.xlsx,1500.0
+Galeras,28.0,Galeras_28,2006,jh-3581,739.0,8726.0,Rubiaceae,Elaeagia,mariae,leaf herbarium,47.09,-27.91,,,,,3581,Galeras_cellulose.xlsx,2000.0
+Galeras,62.0,Galeras_62,2006,jh-3609,1907.0,8915.0,Lauraceae,Aniba,,leaf herbarium,44.13,-30.28,,,,,3609,Galeras_cellulose.xlsx,1500.0
+Galeras,60.0,Galeras_60,2006,jh-3659,1804.0,8777.0,Lauraceae,Ocotea,,leaf herbarium,44.55,-31.83,,,,,3659 und 2524,Galeras_cellulose.xlsx,1500.0
+Galeras,48.0,Galeras_48,2006,jh-3697,1404.0,8669.0,Apocynaceae,Lacmellea,speciosa,leaf herbarium,50.79,-30.0,,,,,3697,Galeras_cellulose.xlsx,1000.0
+Galeras,22.0,Galeras_22,2006,jh-p22-3782,547.0,8968.0,Myristicaceae,Virola,pavonis,leaf herbarium,45.43,-29.02,,,,,3782,Galeras_cellulose.xlsx,1000.0
+Galeras,50.0,Galeras_50,2006,jh-p50-3620,1486.0,8615.0,Lauraceae,Ocotea, cf. longifolia,leaf herbarium,43.87,-27.97,,,,,3620,Galeras_cellulose.xlsx,1500.0
+Galeras,50.0,Galeras_50,2006,jh-p50-3627,1461.0,8796.0,Chrysobalanaceae,Licania,micrantha,leaf herbarium,43.91,-31.58,,,,,3627,Galeras_cellulose.xlsx,1500.0
+Galeras,23.0,Galeras_23,2006,jh-p23-3742,576.0,8990.0,Rubiaceae,Kutchubaea,semisericea,leaf herbarium,41.23,-32.18,,,,,3742,Galeras_cellulose.xlsx,1000.0
+Galeras,48.0,Galeras_48,2006,jh-p48-3712,1393.0,8683.0,Urticaceae,Pourouma,cf bicolor,leaf herbarium,41.21,-29.93,,,,,3712,Galeras_cellulose.xlsx,1000.0
+Galeras,28.0,Galeras_28,2006,jh-p28-3581,739.0,8726.0,Rubiaceae,Elaeagia,mariae,leaf herbarium,43.69,-26.37,,,,,3581,Galeras_cellulose.xlsx,2000.0
+Galeras,28.0,Galeras_28,2006,jh-p28-2293,717.0,,Rubiaceae,Ladenbergia,,leaf herbarium,45.21,-32.32,,,,,2293,Galeras_cellulose.xlsx,2000.0
+Galeras,50.0,Galeras_50,2006,jh-p50-3623,1495.0,8609.0,Simaroubaceae,Simarouba,amara,leaf herbarium,43.51,-30.54,,,,,3623,Galeras_cellulose.xlsx,1500.0
+Galeras,23.0,Galeras_23,2006,jh-p23-3745,564.0,8974.0,Sapotaceae,Cornuella,venezuelanense,leaf herbarium,36.76,-26.51,,,,,3745,Galeras_cellulose.xlsx,1000.0
+Galeras,60.0,Galeras_60,2006,jh-p60-3658,1833.0,8744.0,,,,leaf herbarium,44.04,-30.74,,,,,3658,Galeras_cellulose.xlsx,1500.0
+Galeras,62.0,Galeras_62,2006,jh-p62-3609,1907.0,8915.0,Lauraceae,Aniba,,leaf herbarium,43.33,-30.76,,,,,3609,Galeras_cellulose.xlsx,1500.0
+Galeras,50.0,Galeras_50,2006,jh-p50-3616,1478.0,8628.0,Lauraceae,Ocotea,aff. subrutilans,leaf herbarium,49.8,-31.05,,,,,3616,Galeras_cellulose.xlsx,1500.0
+Galeras,60.0,Galeras_60,2006,jh-p60-3660,1830.0,8752.0,Lauraceae,Ocotea,subrutilans,leaf herbarium,52.480000000000004,-30.97,,,,,3660,Galeras_cellulose.xlsx,1500.0
+Galeras,22.0,Galeras_22,2006,jh-p22-2045,535.0,8955.0,Myristicaceae,Virola,calophylla,leaf herbarium,44.190000000000005,-31.87,,,,,2045,Galeras_cellulose.xlsx,1000.0
+Galeras,28.0,Galeras_28,2006,jh-p28-3588,732.0,,Sapindaceae,Matayba,,leaf herbarium,47.88,-30.17,,,,,3588,Galeras_cellulose.xlsx,2000.0
+Galeras,28.0,Galeras_28,2006,jh-p28-2312,738.0,8723.0,Rubiaceae,Rubi28,,leaf herbarium,45.51,-31.8,,,,,2312,Galeras_cellulose.xlsx,2000.0
+Galeras,50.0,Galeras_50,2006,jh-p50-3618,1489.0,,Sapotaceae,Pouteria,cuspidata,leaf herbarium,48.83,-31.33,,,,,3618,Galeras_cellulose.xlsx,1500.0
+Galeras,28.0,Galeras_28,2006,jh-p28-2311,737.0,8721.0,Moraceae,Helicostylis,tovariensis,leaf herbarium,43.15,-29.76,,,,,2311,Galeras_cellulose.xlsx,2000.0
+Galeras,48.0,Galeras_48,2006,jh-p48-3697,1404.0,8669.0,Apocynaceae,Lacmellea,speciosa,leaf herbarium,47.449999999999996,-28.66,,,,,3697,Galeras_cellulose.xlsx,1000.0
+Galeras,48.0,Galeras_48,2006,jh-p48-3709,1389.0,8685.0,Chrysobalanaceae,Parinari,klugii,leaf herbarium,39.129999999999995,-30.4,,,,,"3709,2455",Galeras_cellulose.xlsx,1000.0
+Galeras,50.0,Galeras_50,2006,jh-p50-3622,1483.0,8617.0,Myrtaceae,Siphoneugena,densiflora,leaf herbarium,46.93,-29.22,,,,,3622,Galeras_cellulose.xlsx,1500.0
+Galeras,24.0,Galeras_24,2006,jh-p24-3683,583.0,,Lauraceae,Ocotea,floribunda,leaf herbarium,45.97,-30.1,,,,,3683,Galeras_cellulose.xlsx,1000.0
+Galeras,62.0,Galeras_62,2006,jh-p62-3612,1882.0,8909.0,Symplocaceae,Symplocos,cf guacamayensis,leaf herbarium,49.79,-31.97,,,,,"3612,2529",Galeras_cellulose.xlsx,1500.0
+Galeras,62.0,Galeras_62,2006,jh-p62-3602,1878.0,,Rutaceae,Zanthoxylum,melanostictum,leaf herbarium,48.97,-28.29,,,,,3602,Galeras_cellulose.xlsx,1500.0
+Galeras,50.0,Galeras_50,2006,jh-p50-3621,1465.0,8778.0,Lauraceae,Persea,aff. pseudofasciculata,leaf herbarium,47.17,-32.07,,,,,3621,Galeras_cellulose.xlsx,1500.0
+Galeras,48.0,Galeras_48,2006,jh-p48-3710,1414.0,8664.0,Moraceae,Pseudolmedia,laevis,leaf herbarium,45.86,-31.48,,,,,3710,Galeras_cellulose.xlsx,1000.0
+Galeras,48.0,Galeras_48,2006,jh-p48-3700,1407.0,8667.0,Myrtaceae,Calyptranthes,,leaf herbarium,46.949999999999996,-32.3,,,,,3700,Galeras_cellulose.xlsx,1000.0
+Galeras,48.0,Galeras_48,2006,jh-p48-3702,1408.0,,Fabaceae,Tachigali,,leaf herbarium,50.3,-26.31,,,,,3702,Galeras_cellulose.xlsx,1000.0
+Galeras,50.0,Galeras_50,2006,jh-p50-3617,1470.0,8780.0,Styracaceae,Styrax,cordatus,leaf herbarium,49.21,-31.4,,,,,3617,Galeras_cellulose.xlsx,1500.0
+Galeras,48.0,Galeras_48,2006,jh-p48-3699,1398.0,8678.0,Sapotaceae,Ragala,sanguinolenta,leaf herbarium,48.84,-30.45,,,,,"3699,2460",Galeras_cellulose.xlsx,1000.0
+Galeras,28.0,Galeras_28,2006,jh-p28-3578,731.0,,Myristicaceae,Virola,obovata,leaf herbarium,58.84,-30.95,,,,,3578,Galeras_cellulose.xlsx,2000.0
+Galeras,20.0,Galeras_20,2006,jh-p20-3715,498.0,,Myristicaceae,Compsoneura,capitellata,leaf herbarium,46.839999999999996,-25.81,,,,,3715,Galeras_cellulose.xlsx,1000.0
+Galeras,50.0,Galeras_50,2006,jh-p50-3625,1464.0,8800.0,Euphorbiaceae,Alchornea,triplinervia,leaf herbarium,47.660000000000004,-28.8,,,,,3625,Galeras_cellulose.xlsx,1500.0
+Galeras,23.0,Galeras_23,2006,jh-p23-3736,553.0,8986.0,Fabaceae,Inga,marginata,leaf herbarium,45.92,-30.18,,,,,3736,Galeras_cellulose.xlsx,1000.0
+Galeras,23.0,Galeras_23,2006,jh-p23-3744,563.0,8975.0,Fabaceae,Inga,capitata,leaf herbarium,47.24,-29.71,,,,,3744,Galeras_cellulose.xlsx,1000.0
+Galeras,28.0,Galeras_28,2006,jh-p28-3587,715.0,8738.0,Rosaceae,Prunus,opaca,leaf herbarium,46.46,-27.28,,,,,3587,Galeras_cellulose.xlsx,2000.0
+Galeras,62.0,Galeras_62,2006,jh-p62-3615,1880.0,,Lauraceae,Ocotea,subrutilans,leaf herbarium,47.74,-28.4,,,,,3615,Galeras_cellulose.xlsx,1500.0
+Galeras,50.0,Galeras_50,2006,jh-p50-3624,1459.0,8786.0,Melastomataceae,Ossaea,laxivenula,leaf herbarium,48.309999999999995,-27.5,,,,,3624,Galeras_cellulose.xlsx,1500.0
+Galeras,60.0,Galeras_60,2006,jh-p60-5010,1823.0,8767.0,Lecythidaceae,Eschweilera,,leaf herbarium,52.52,-30.96,,,,,"5010, same as 3670",Galeras_cellulose.xlsx,1500.0
+Galeras,23.0,Galeras_23,2006,p23-566,566.0,8631.0,Rubiaceae,Posoqueria,latifolia,leaf pulverized,44.99,-32.8,,,,,2016,Galeras_cellulose.xlsx,1000.0
+Galeras,23.0,Galeras_23,2006,p23-578,578.0,,Fabaceae,Inga,leiocalycina,leaf pulverized,34.96,-30.42,,,,,2021,Galeras_cellulose.xlsx,1000.0
+Galeras,29.0,Galeras_29,2006,p29-792,792.0,,Chrysobalanaceae,Hirtella,cf. schultesii,leaf pulverized,37.66,-32.34,,,,,"3796,2501",Galeras_cellulose.xlsx,1000.0
+Galeras,23.0,Galeras_23,2006,p23-565,565.0,8972.0,Meliaceae,Guarea,pterorhachis,leaf pulverized,43.68,-32.44,,,,,,Galeras_cellulose.xlsx,1000.0
+Galeras,20.0,Galeras_20,2006,p20-495,495.0,,Rubiaceae,Randia,,leaf pulverized,40.12,-29.9,,,,,,Galeras_cellulose.xlsx,1000.0
+Galeras,23.0,Galeras_23,2006,p23-560,560.0,8982.0,Sapotaceae,Lucuma,multiflora,leaf pulverized,39.61,-30.1,,,,,3740,Galeras_cellulose.xlsx,1000.0
+Galeras,20.0,Galeras_20,2006,p20-489,489.0,,Myristicaceae,Compsoneura,capitellata,leaf pulverized,46.72,-29.51,,,,,,Galeras_cellulose.xlsx,1000.0
+Galeras,28.0,Galeras_28,2025,p28-8715,,8715.0,Rubiaceae,Rubi28,,leaf pulverized,41.1444369347698,-30.2891308227147,1.5008298,47.8611059,-1.398878787878791,-32.71591049840934,,Galeras_cellulose.xlsx,2000.0
+Galeras,28.0,Galeras_28,2025,p28-8726,739.0,8726.0,Rubiaceae,Elaeagia,mariae,leaf pulverized,43.9438583086035,-29.1445559259646,1.2930682,45.821732,-0.8156515151515178,-31.40620784729586,3581,Galeras_cellulose.xlsx,2000.0
+Galeras,28.0,Galeras_28,2025,p28-8735,719.0,8735.0,Fabaceae,Diplotropis,aff purpurea,leaf pulverized,43.0530253219559,-30.4450094992612,2.2495804,44.4235226,-0.6968459595959623,-32.54059597030753,"3579,2295",Galeras_cellulose.xlsx,2000.0
+Galeras,28.0,Galeras_28,2025,p28-8718,746.0,8718.0,Myristicaceae,Virola,obovata,leaf pulverized,48.1950414439901,-30.343796248292,2.3168089999999997,49.8854583,-0.437633838383841,-31.94246405090138,,Galeras_cellulose.xlsx,2000.0
+Galeras,28.0,Galeras_28,2025,p28-8733,726.0,8733.0,Sapotaceae,Sapo28,,leaf pulverized,46.3938398732814,-29.1034967823109,1.6560271000000002,50.3014387,-0.6212424242424268,-31.08651664899258,3601,Galeras_cellulose.xlsx,2000.0
+Galeras,28.0,Galeras_28,2025,p28-8708,755.0,8708.0,Lauraceae,Ocotea,subrutilans,leaf pulverized,44.7140793737736,-30.2890504456658,1.3334221,48.744971799999995,0.04838888888888647,-31.73621166489926,3582,Galeras_cellulose.xlsx,2000.0
+Galeras,23.0,Galeras_23,2025,p23-8976,561.0,8976.0,Rubiaceae,Faramea,multiflora,leaf pulverized,43.330252490663,-31.0694918492985,1.6808389,39.2860231,2.316494949494948,-32.53028335100743,2022,Galeras_cellulose.xlsx,1000.0
+Galeras,28.0,Galeras_28,2025,p28-8721,737.0,8721.0,Moraceae,Helicostylis,tovariensis,leaf pulverized,43.5912375771325,-30.9151158293839,2.7895579,41.484919399999995,1.225643939393937,-32.16934167550372,2311,Galeras_cellulose.xlsx,2000.0
+Galeras,28.0,Galeras_28,2025,p28-8721,,8721.0,Chrysobalanaceae,,,leaf pulverized,43.5912375771325,-30.9151158293839,2.7895579,41.484919399999995,1.225643939393937,-32.16934167550372,,Galeras_cellulose.xlsx,2000.0
+Galeras,28.0,Galeras_28,2025,p28-8716,740.0,8716.0,Theaceae,Gordonia,fruticosa,leaf pulverized,44.4568875907566,-28.6232503275406,1.1539571,45.4169737,-4.04500252525253,-30.37494591728526,2296,Galeras_cellulose.xlsx,2000.0
+Galeras,23.0,Galeras_23,2025,p23-8974,564.0,8974.0,Sapotaceae,Cornuella,venezuelanense,leaf pulverized,37.2296106855743,-29.1951021508777,3.2737523,44.6083019,1.344449494949493,-30.52963520678685,3745,Galeras_cellulose.xlsx,1000.0
+Galeras,23.0,Galeras_23,2025,p23-8980,570.0,8980.0,Moraceae,Sorocea,trophoides,leaf pulverized,29.235018235055,-27.2953083375885,1.8465961999999998,38.981501699999995,1.852073232323231,-30.23056924708378,2034,Galeras_cellulose.xlsx,1000.0
+Galeras,23.0,Galeras_23,2025,p23-8986,553.0,8986.0,Fabaceae,Inga,marginata,leaf pulverized,41.159136443641,-29.4525475567856,4.0569896000000005,45.12003,0.1347929292929269,-30.33369544008483,3736,Galeras_cellulose.xlsx,1000.0
+Galeras,23.0,Galeras_23,2025,p23-8983,559.0,8983.0,Lecythidaceae,Grias,peruviana,leaf pulverized,42.337351793583,-29.0008888885468,1.1074035,42.231847300000005,0.7396212121212099,-30.57088568398727,3739,Galeras_cellulose.xlsx,1000.0
+Galeras,23.0,Galeras_23,2025,p23-8975,563.0,8975.0,Fabaceae,Inga,capitata,leaf pulverized,41.5303356058943,-29.7107721724254,2.9246209,44.456076700000004,-1.064063131313134,-31.6330854718982,3744,Galeras_cellulose.xlsx,1000.0
+Galeras,23.0,Galeras_23,2025,p23-8985,,8985.0,Rubiaceae,,,leaf pulverized,41.6439967715565,-29.519304007414,2.2873870000000003,49.5707737,2.629709595959595,-31.89090095440085,,Galeras_cellulose.xlsx,1000.0
+Galeras,23.0,Galeras_23,2025,p23-8989,558.0,8989.0,Fabaceae,Tachigali,,leaf pulverized,45.4857606024444,-29.3396028599395,1.8643937,46.0285072,2.132886363636362,-30.85963902439025,3738,Galeras_cellulose.xlsx,1000.0
+Galeras,28.0,Galeras_28,2025,p28-8702,757.0,8702.0,Peraceae,Chaetocarpus,,leaf pulverized,42.5086207928534,-31.1912963223841,1.0451804,34.852384199999996,1.528058080808079,-32.58184644750796,3580,Galeras_cellulose.xlsx,2000.0
+Galeras,28.0,Galeras_28,2025,p28-8713,,8713.0,Urticaceae,Pourouma,minor,leaf pulverized,41.4838720382917,-30.3984872633766,1.8573859000000001,44.6465811,0.4480075757575734,-32.6437221633086,,Galeras_cellulose.xlsx,2000.0
+Galeras,28.0,Galeras_28,2025,p28-8711,748.0,8711.0,Fabaceae,Diplotropis,aff purpurea,leaf pulverized,43.6843747584017,-29.8149753765473,2.5007091,46.9511845,-0.7292474747474775,-31.36495737009544,,Galeras_cellulose.xlsx,2000.0
+Galeras,23.0,Galeras_23,2025,p23-8982,560.0,8982.0,Sapotaceae,Lucuma,multiflora,leaf pulverized,42.6094512384768,-29.4398007961879,1.8394412999999998,43.9969982,2.996926767676766,-31.47839618239661,3740,Galeras_cellulose.xlsx,1000.0
+Galeras,22.0,Galeras_22,2025,p22-8962,543.0,8962.0,Fabaceae,Jupunba,trapezifolia var. micradenia,leaf pulverized,41.2453944867987,-31.6435901264917,2.9902414,44.7937109,0.05918939393939154,-33.57185790031813,2037,Galeras_cellulose.xlsx,1000.0
+Galeras,22.0,Galeras_22,2025,p22-8966,,8966.0,Myristicaceae,,,leaf pulverized,45.2066695761991,-33.4635486186094,2.3312171999999998,47.3049903,2.100484848484847,-34.51030625662779,,Galeras_cellulose.xlsx,1000.0
+Galeras,22.0,Galeras_22,2025,p22-8961,531.0,8961.0,Fabaceae,Inga,laevigata,leaf pulverized,42.9734858344922,-30.0055722815965,2.7952579,45.9607526,1.484856060606059,-32.3137183457052,2062,Galeras_cellulose.xlsx,1000.0
+Galeras,,Galeras_<NA>,2025,p28-8878,,8878.0,,,,leaf pulverized,41.9588020834581,-32.5768790499547,,,,,,Galeras_cellulose.xlsx,
+Galeras,22.0,Galeras_22,2025,p22-8965,,8965.0,Melastomataceae,,,leaf pulverized,44.2499966869261,-31.980242911481,2.0303437,35.7138371,3.720560606060605,-32.98403860021209,,Galeras_cellulose.xlsx,1000.0
+Galeras,22.0,Galeras_22,2025,p22-8968,547.0,8968.0,Myristicaceae,Virola,pavonis,leaf pulverized,43.9651545875486,-25.8864785486152,3.2576278,47.1324392,2.003280303030301,-27.78647847295865,3782,Galeras_cellulose.xlsx,1000.0
+Galeras,22.0,Galeras_22,2025,p22-8957,537.0,8957.0,Lauraceae,Ocotea,oblonga,leaf pulverized,40.6982427243902,-30.5903662612624,2.0112341999999996,47.9522005,-2.241318181818185,-33.55123266171793,2047,Galeras_cellulose.xlsx,1000.0
+Galeras,22.0,Galeras_22,2025,p22-8955,535.0,8955.0,Myristicaceae,Virola,calophylla,leaf pulverized,45.6439322011342,-33.0767664672718,1.759832,46.4610416,2.348896464646463,-34.29374125132556,2045,Galeras_cellulose.xlsx,1000.0
+Galeras,22.0,Galeras_22,2025,p22-8945,521.0,8945.0,Myristicaceae,Compsoneura,capitellata,leaf pulverized,42.3964946066613,-27.4993837776844,1.3777052,45.5753591,0.5344116161616138,-29.99337900318134,3715,Galeras_cellulose.xlsx,1000.0
+Galeras,60.0,Galeras_60,2025,p60-8766,1812.0,8766.0,Myrtaceae,,,leaf pulverized,44.8741459752896,-32.4656005500957,1.2963235,43.3789416,-3.980199494949499,-34.38655482502651,,Galeras_cellulose.xlsx,1500.0
+Galeras,60.0,Galeras_60,2025,p60-8752,1830.0,8752.0,Lauraceae,Ocotea,subrutilans,leaf pulverized,42.4102060321098,-29.1399936400367,1.3743392,50.177422400000005,-6.647924242424247,-31.91152619300106,3660,Galeras_cellulose.xlsx,1500.0
+Galeras,60.0,Galeras_60,2025,p60-8776,1803.0,8776.0,Rubiaceae,Ladenbergia,acutifolia,leaf pulverized,44.2966355141506,-30.2160572754191,1.4257494000000002,48.7097855,-3.3429696969697,-32.36528144220573,3611,Galeras_cellulose.xlsx,1500.0
+Galeras,60.0,Galeras_60,2025,p60-8743,1806.0,8743.0,Calophyllaceae,Marila,,leaf pulverized,43.9215008824832,-30.4205716335254,1.5013997,48.018792999999995,-0.07041666666666911,-32.04559024390244,"3662, =2512",Galeras_cellulose.xlsx,1500.0
+Galeras,60.0,Galeras_60,2025,p60-8744,1833.0,8744.0,,,,leaf pulverized,44.8352868834149,-29.1690486954253,4.4596189,48.1715401,0.7288207070707049,-31.62277285259809,3658,Galeras_cellulose.xlsx,1500.0
+Galeras,60.0,Galeras_60,2025,p60-8769,1807.0,8769.0,Peraceae,Chaetocarpus,,leaf pulverized,41.977821520632,-27.7086792381737,1.4747839,42.904386300000006,-1.074863636363639,-29.70462566277837,2525,Galeras_cellulose.xlsx,1500.0
+Galeras,60.0,Galeras_60,2025,p60-8777,1804.0,8777.0,Lauraceae,Ocotea,,leaf pulverized,42.9259704816289,-32.2858487083775,1.9979472000000003,49.6829145,-4.379818181818186,-34.80937221633086,3659 und 2524,Galeras_cellulose.xlsx,1500.0
+Galeras,60.0,Galeras_60,2025,p60-8760,1815.0,8760.0,Myrtaceae,,,leaf pulverized,42.4809951955718,-30.8542060443791,1.3759967,47.1447479,-3.591381313131317,-33.0046638388123,,Galeras_cellulose.xlsx,1500.0
+Galeras,60.0,Galeras_60,2025,p60-8774,1802.0,8774.0,Moraceae,Helicostylis,tovariensis,leaf pulverized,43.3265177052123,-29.3334332956575,2.5687413,41.838771,-0.2756262626262652,-30.73588759278897,2523,Galeras_cellulose.xlsx,1500.0
+Galeras,60.0,Galeras_60,2025,p60-8763,1813.0,8763.0,Lauraceae,Ocotea,,leaf pulverized,43.4781494563771,-28.9019351063201,1.9263705,48.746175,-1.960505050505054,-31.76714952279958,3657,Galeras_cellulose.xlsx,1500.0
+Galeras,60.0,Galeras_60,2025,p60-8751,1831.0,8751.0,Lecythidaceae,Eschweilera,,leaf pulverized,43.9985520392265,-27.7592202890675,2.8111832999999997,47.7432064,1.268845959595958,-30.73588759278897,3670,Galeras_cellulose.xlsx,1500.0
+Galeras,28.0,Galeras_28,2025,p28-8738,715.0,8738.0,Rosaceae,Prunus,opaca,leaf pulverized,43.8414388746346,-32.2611441649535,1.6373887,45.8460268,-0.9776590909090938,-33.37591813361612,3587,Galeras_cellulose.xlsx,2000.0
+Galeras,,Galeras_<NA>,2025,p60-8885,,8885.0,,,,leaf pulverized,46.2252054795823,-33.2532341567998,,,,,,Galeras_cellulose.xlsx,
+Galeras,48.0,Galeras_48,2025,p48-8665,1411.0,8665.0,Moraceae,Helicostylis,tomentosa,leaf pulverized,43.5494988819161,-26.7460878984196,,,,,3696,Galeras_cellulose.xlsx,1000.0
+Galeras,24.0,Galeras_24,2025,p24-8639,585.0,8639.0,Lacistemataceae,Lozania,klugii,leaf pulverized,44.0685383962201,-32.1956835423096,,,,,2083,Galeras_cellulose.xlsx,1000.0
+Galeras,48.0,Galeras_48,2025,p62-8669,1404.0,8669.0,Apocynaceae,Lacmellea,speciosa,leaf pulverized,51.5501825647706,-31.9686377599029,,,,,3697,Galeras_cellulose.xlsx,1000.0
+Galeras,48.0,Galeras_48,2025,p48-8685,1389.0,8685.0,Chrysobalanaceae,Parinari,klugii,leaf pulverized,43.9914834104145,-30.8479008876318,,,,,"3709,2455",Galeras_cellulose.xlsx,1000.0
+Galeras,48.0,Galeras_48,2025,p48-8678,1398.0,8678.0,Sapotaceae,Ragala,sanguinolenta,leaf pulverized,44.9377877375942,-30.2763099384598,,,,,"3699,2460",Galeras_cellulose.xlsx,1000.0
+Galeras,24.0,Galeras_24,2025,p24-8656,592.0,8656.0,Rubiaceae,,,leaf pulverized,42.851590238464,-31.0041351007367,,,,,3686,Galeras_cellulose.xlsx,1000.0
+Galeras,24.0,Galeras_24,2025,p24-8641,580.0,8641.0,Moraceae,Sorocea,sp,leaf pulverized,45.6788402527187,-29.3942934566527,,,,,,Galeras_cellulose.xlsx,1000.0
+Galeras,48.0,Galeras_48,2025,p48-8664,1414.0,8664.0,Moraceae,Pseudolmedia,laevis,leaf pulverized,45.0237138290824,-29.289136429301,,,,,3710,Galeras_cellulose.xlsx,1000.0
+Galeras,50.0,Galeras_50,2025,p50-8796,1461.0,8796.0,Chrysobalanaceae,Licania,micrantha,leaf pulverized,44.3525207133124,-31.7096539307129,,,,,3627,Galeras_cellulose.xlsx,1500.0
+Galeras,50.0,Galeras_50,2025,p50-8789,,8789.0,Fabaceae,Inga,,leaf pulverized,44.4600944308076,-27.6119893186605,,,,,,Galeras_cellulose.xlsx,1500.0
+Galeras,50.0,Galeras_50,2025,p50-8609,1495.0,8609.0,Simaroubaceae,Simarouba,amara,leaf pulverized,44.4313352406064,-28.7444017194557,,,,,3623,Galeras_cellulose.xlsx,1500.0
+Galeras,50.0,Galeras_50,2025,p50-8778,1465.0,8778.0,Lauraceae,Persea,aff. pseudofasciculata,leaf pulverized,46.6499858932052,-30.8356062037384,,,,,3621,Galeras_cellulose.xlsx,1500.0
+Galeras,50.0,Galeras_50,2025,p50-8800,1464.0,8800.0,Euphorbiaceae,Alchornea,triplinervia,leaf pulverized,44.9796090135757,-28.1255697789897,,,,,3625,Galeras_cellulose.xlsx,1500.0
+Galeras,50.0,Galeras_50,2025,p50-8612,1490.0,8612.0,Rutaceae,Zanthoxylum,melanostictum,leaf pulverized,52.2157059447287,-28.624586696603,,,,,,Galeras_cellulose.xlsx,1500.0
+Galeras,48.0,Galeras_48,2025,p48-8658,1417.0,8658.0,Moraceae,Sorocea,sp.,leaf pulverized,43.8677361203235,-30.0566551236913,,,,,3706,Galeras_cellulose.xlsx,1000.0
+Galeras,62.0,Galeras_62,2025,p62-8909,1882.0,8909.0,Symplocaceae,Symplocos,cf guacamayensis,leaf pulverized,45.7739986266509,-31.0274126439091,,,,,"3612,2529",Galeras_cellulose.xlsx,1500.0
+Galeras,62.0,Galeras_62,2025,p62-8920,1872.0,8920.0,,,,leaf pulverized,45.2091672300969,-28.4703948807835,,,,,3595,Galeras_cellulose.xlsx,1500.0
+Galeras,24.0,Galeras_24,2025,p24-8640,584.0,8640.0,Vochysiaceae,,,leaf pulverized,48.3668109395467,-28.089768184058,,,,,,Galeras_cellulose.xlsx,1000.0
+Galeras,24.0,Galeras_24,2025,p24-8644,606.0,8644.0,Phyllanthaceae,Hieronyma,asperifolia,leaf pulverized,45.3467710094455,-30.6065220715266,,,,,3691,Galeras_cellulose.xlsx,1000.0
+Galeras,62.0,Galeras_62,2025,p62-8911,1906.0,8911.0,Cunnoniaceae,Weinmannia,pinnata,leaf pulverized,44.4068661322818,-28.4056669789391,,,,,3607,Galeras_cellulose.xlsx,1500.0
+Galeras,62.0,Galeras_62,2025,p62-8913,1905.0,8913.0,Fabaceae,Inga,,leaf pulverized,44.0519869123762,-28.2607410254784,,,,,,Galeras_cellulose.xlsx,1500.0
+Galeras,24.0,Galeras_24,2025,p24-8633,590.0,8633.0,Clusiaceae,Garcinia,madruno,leaf pulverized,53.562366156364,-32.5217284052814,,,,,2073,Galeras_cellulose.xlsx,1000.0
+Galeras,62.0,Galeras_62,2025,p62-8904,1896.0,8904.0,Phyllanthaceae,Hieronyma,oblonga,leaf pulverized,42.8829933778642,-30.6824111939395,,,,,2531,Galeras_cellulose.xlsx,1500.0
+Galeras,24.0,Galeras_24,2025,p24-8643,611.0,8643.0,Melastomataceae,,,leaf pulverized,42.3291323522651,-26.8604457873218,,,,,2067,Galeras_cellulose.xlsx,1000.0
+Galeras,62.0,Galeras_62,2025,p62-8935,,8935.0,Clusiaceae,Tovomita,,leaf pulverized,47.7447902483846,-27.1473256870557,,,,,,Galeras_cellulose.xlsx,1500.0
+Galeras,48.0,Galeras_48,2025,p48-8667,1407.0,8667.0,Myrtaceae,Calyptranthes,,leaf pulverized,43.6800233807908,-31.2367170271732,,,,,3700,Galeras_cellulose.xlsx,1000.0
+Galeras,24.0,Galeras_24,2025,p24-8654,595.0,8654.0,Phyllanthaceae,Hieronyma,oblonga,leaf pulverized,45.0157176833454,-31.481073004197,,,,,3689,Galeras_cellulose.xlsx,1000.0
+Galeras,24.0,Galeras_24,2025,p24-8649,600.0,8649.0,Euphorbiaceae,Alchornea,,leaf pulverized,44.5666577303445,-28.841640962394,,,,,3665,Galeras_cellulose.xlsx,1000.0
+Galeras,50.0,Galeras_50,2025,p50-8780,1470.0,8780.0,Styracaceae,Styrax,cordatus,leaf pulverized,46.6657515975042,-32.2435355746779,,,,,3617,Galeras_cellulose.xlsx,1500.0
+Galeras,50.0,Galeras_50,2025,p50-8613,,8613.0,Apocynaceae,Apo28,,leaf pulverized,48.539882967714,-32.0729824104926,,,,,,Galeras_cellulose.xlsx,1500.0
+Galeras,50.0,Galeras_50,2025,p50-8615,1486.0,8615.0,Lauraceae,Ocotea, cf. longifolia,leaf pulverized,47.6661354350682,-28.6791783933368,,,,,3620,Galeras_cellulose.xlsx,1500.0
+Galeras,24.0,Galeras_24,2025,p24-8642,579.0,8642.0,Lecythidaceae,Eschweilera,caudiculata,leaf pulverized,48.3415836866317,-32.3566034758169,,,,,2081,Galeras_cellulose.xlsx,1000.0
+Galeras,50.0,Galeras_50,2025,p50-8786,1459.0,8786.0,Melastomataceae,Ossaea,laxivenula,leaf pulverized,44.107567233824,-28.7987617301663,,,,,3624,Galeras_cellulose.xlsx,1500.0
+Galeras,24.0,Galeras_24,2025,p24-8651,598.0,8651.0,Caryocaraceae,Caryocar,glabrum,leaf pulverized,44.2197495682497,-29.1780436768037,,,,,2069,Galeras_cellulose.xlsx,1000.0
+Galeras,48.0,Galeras_48,2025,p48-8686,1390.0,8686.0,Annonaceae,Guatteria,gentryi,leaf pulverized,44.844345018092,-31.552590652176,,,,,"3707,2456",Galeras_cellulose.xlsx,1000.0
+Galeras,48.0,Galeras_48,2025,p48-8663,1413.0,8663.0,Annonaceae,,,leaf pulverized,44.2462096729894,-32.7004934252271,,,,,3705,Galeras_cellulose.xlsx,1000.0
+Galeras,48.0,Galeras_48,2025,p48-8672,1400.0,8672.0,Moraceae,Naucleopsis,ulei,leaf pulverized,45.141287351169,-27.0372808201266,,,,,3698,Galeras_cellulose.xlsx,1000.0
+Galeras,48.0,Galeras_48,2025,p48-8666,1406.0,8666.0,Malpighiaceae,Byrsonima,,leaf pulverized,42.49,-31.49,,,,,"3703, 2461",Galeras_cellulose.xlsx,1000.0
+Galeras,,Galeras_<NA>,2025,p48-3698,,3698.0,,,,leaf pulverized,41.93,-27.79,,,,,,Galeras_cellulose.xlsx,
+Galeras,23.0,Galeras_23,2025,p23-8980,570.0,8980.0,Moraceae,Sorocea,trophoides,leaf pulverized,27.279999999999998,-28.17,,,,,2034,Galeras_cellulose.xlsx,1000.0
+Galeras,23.0,Galeras_23,2025,p28-8974,564.0,8974.0,Sapotaceae,Cornuella,venezuelanense,leaf pulverized,40.54,-29.37,,,,,3745,Galeras_cellulose.xlsx,1000.0
+SV,70.0,SV_70,2006,jh-p70-3904,,3604.0,Meliaceae,Guarea,,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,3604.0,Meliaceae,Guarea,,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,69.0,SV_69,2006,jh-3841,2171.0,3605.0,Moraceae,Ficus,pulchella,leaf herbarium,46.0443129123116,-29.4115550285103,,,,,3841,SV_cellulose.xlsx,
+SV,69.0,SV_69,2025,p69-3605,2171.0,3605.0,Moraceae,Ficus,pulchella,leaf pulverized,34.9329096455498,-29.1899606205167,2.2131455160225832,42.82614261488554,0.46,-31.85,3841,SV_cellulose.xlsx,
+SV,69.0,SV_69,2025,p69-3605,2171.0,3605.0,Moraceae,Ficus,pulchella,leaf pulverized,35.83,-29.27,2.2131455160225832,42.82614261488554,0.46,-31.85,3841,SV_cellulose.xlsx,
+SV,69.0,SV_69,2006,jh-3842,2172.0,3606.0,Moraceae,Batocarpus,orinocensis,leaf herbarium,42.58,-30.5,,,,,3842,SV_cellulose.xlsx,
+SV,69.0,SV_69,2006,jh-3842,2172.0,3606.0,Moraceae,Batocarpus,orinocensis,leaf herbarium,42.6796233249461,-30.3608848275309,,,,,3842,SV_cellulose.xlsx,
+SV,69.0,SV_69,2025,p69-3606,2172.0,3606.0,Moraceae,Batocarpus,orinocensis,leaf pulverized,45.5937982420793,-30.7104219532734,2.485796670088971,43.78430142968719,0.12,-31.98,3842,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,3607.0,Indet,,,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,3607.0,Indet,,,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,69.0,SV_69,2006,jh-3840,2170.0,3608.0,Meliaceae,Guarea,kunthiana,leaf herbarium,41.64,-32.33,,,,,3840,SV_cellulose.xlsx,
+SV,69.0,SV_69,2025,p69-3609,2167.0,3609.0,Euphorbiaceae,Pseudosenefeldera,inclinata,leaf pulverized,42.2153607736312,-30.6732666344141,2.3410870298958253,43.3943697942952,-0.63,-32.26,,SV_cellulose.xlsx,
+SV,69.0,SV_69,2006,jh-3838,2163.0,3610.0,Indet,,,leaf herbarium,44.77,-28.72,,,,,3838,SV_cellulose.xlsx,
+SV,69.0,SV_69,2025,p69-3612,2180.0,3612.0,Myristicaceae,Otoba,parvifolia,leaf pulverized,49.475400021233,-30.3754078922675,1.4470048089621501,47.92818843283498,-0.86,-31.62,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,3613.0,Euphorbiaceae,Pseudosenefeldera,inclinata,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,3613.0,Euphorbiaceae,Pseudosenefeldera,inclinata,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,69.0,SV_69,2006,jh-3844,2177.0,3617.0,Fabaceae,Browneopsis,ucayalina,leaf herbarium,43.7,-32.18,,,,,3844,SV_cellulose.xlsx,
+SV,69.0,SV_69,2025,p69-3619,2179.0,3619.0,Salicaceae,Tetrathylacium,macrophyllum,leaf pulverized,43.2832197782582,-32.3631333555326,1.9155342210977009,43.506160926739966,-0.12,-34.07,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-3892,2220.0,3622.0,Clusiaceae,Chrysochlamys,membranacea,leaf herbarium,47.31,-34.21,,,,,3892,SV_cellulose.xlsx,
+SV,70.0,SV_70,2025,p70-3622,2220.0,3622.0,Clusiaceae,Chrysochlamys,membranacea,leaf pulverized,42.2106791938408,-33.0984094704943,1.468680313508528,41.78782536686835,1.41,-33.8,3892,SV_cellulose.xlsx,
+SV,70.0,SV_70,2025,p70-3623,2218.0,3623.0,Melastomataceae,Miconia,elata,leaf pulverized,50.0511194882133,-32.9644172724988,2.344245815416083,46.32356375118532,1.86,-33.18,3882,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-3882,2218.0,3623.0,Melastomataceae,Miconia,elata,leaf herbarium,51.15,-33.49,,,,,3882,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-3881,2217.0,3624.0,Myristicaceae,Virola,flexuosa,leaf herbarium,44.69,-31.61,,,,,3881,SV_cellulose.xlsx,
+SV,70.0,SV_70,2025,p70-3624,2217.0,3624.0,Myristicaceae,Virola,flexuosa,leaf pulverized,52.95,-32.36,,,,,3881,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,3625.0,indet,,,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,3625.0,indet,,,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,3626.0,Lauraceae,,,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,3626.0,Lauraceae,,,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,3627.0,Meliaceae,Guarea,,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,3627.0,Meliaceae,Guarea,,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3893,2223.0,3628.0,Myristicaceae,Otoba,parvifolia,leaf herbarium,46.739999999999995,-32.37,,,,,3893,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-3893,2223.0,3628.0,Myristicaceae,Otoba,parvifolia,leaf herbarium,51.14,-32.63,,,,,3893,SV_cellulose.xlsx,
+SV,70.0,SV_70,2025,p70-3629,2224.0,3629.0,Meliaceae,Trichilia,septentrionalis,leaf pulverized,42.4863567490847,-30.9830539249629,3.5450074061000385,48.12524582095935,1.94,-32.25,3885,SV_cellulose.xlsx,
+SV,70.0,SV_70,2025,p70-3631,2246.0,3631.0,Lauraceae,Mespilodaphne,quixos,leaf pulverized,43.77,-31.43,,,,,3903,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3903,2246.0,3631.0,Lauraceae,Mespilodaphne,quixos,leaf herbarium,42.92,-28.3,,,,,3903,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,3632.0,Moraceae,Pseudolmedia,laevigata,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,3632.0,Moraceae,Pseudolmedia,laevigata,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3902,2245.0,3634.0,Annonaceae,Guatteria,cf multivenia,leaf herbarium,46.129999999999995,-30.43,,,,,3902,SV_cellulose.xlsx,
+SV,70.0,SV_70,2025,p70-3634,2245.0,3634.0,Annonaceae,Guatteria,cf multivenia,leaf pulverized,42.6405238957477,-33.9862141392051,1.1738292390740739,42.73580210356233,0.86,-35.61,3902,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-3889,2238.0,3635.0,Annonaceae,Annona,helosioides,leaf herbarium,46.35,-33.02,,,,,3889,SV_cellulose.xlsx,
+SV,70.0,SV_70,2025,p70-3635,2238.0,3635.0,Annonaceae,Annona,helosioides,leaf pulverized,41.47,-33.34,2.3290300688166137,42.864062422110685,0.67,-34.74,3889,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-3888,2236.0,3637.0,Sapotaceae,Pouteria,torta,leaf herbarium,46.37,-32.66,,,,,3888,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,3639.0,Euphorbiaceae,Alchornea ,,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,3639.0,Euphorbiaceae,Alchornea ,,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,3640.0,Salicaceae,Banara,nitida,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,3640.0,Salicaceae,Banara,nitida,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,3641.0,indet,,,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,3641.0,indet,,,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-3897,2233.0,3642.0,Rubiaceae,Chimarrhis,cf glabriflora,leaf herbarium,42.93,-27.39,,,,,3897,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-3897,2233.0,3642.0,Rubiaceae,Chimarrhis,cf glabriflora,leaf herbarium,45.5,-28.17,,,,,3897,SV_cellulose.xlsx,
+SV,70.0,SV_70,2025,p70-3642,2233.0,3642.0,Rubiaceae,Chimarrhis,cf glabriflora,leaf pulverized,42.3110226596482,-29.0136864851214,1.994461056810911,46.25106483743614,1.91,-31.42,3897,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3899,2239.0,3643.0,Melastomataceae,Miconia,,leaf herbarium,46.660000000000004,-30.56,,,,,3899,SV_cellulose.xlsx,
+SV,70.0,SV_70,2025,70-3643,2239.0,3643.0,Melastomataceae,Miconia,,leaf pulverized,46.0901105921165,-31.501955307122,,,,,3899,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-3899,2239.0,3643.0,Melastomataceae,Miconia,,leaf herbarium,46.23,-30.4,,,,,3899,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,3644.0,Salicacia,Laetia,,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,3644.0,Salicacia,Laetia,,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,3645.0,Salicacia,Laetia,,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2025,p70-3645,,3645.0,Salicacia,Laetia,,leaf pulverized,42.6221781327326,-33.053099414117,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,3645.0,Salicacia,Laetia,,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-3877,2207.0,3647.0,Moraceae,Maclura,tinctoria,leaf herbarium,49.2922799802687,-26.6330136161936,,,,,3877,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-4769,2208.0,3648.0,Burseraceae,Protium,,leaf herbarium,44.83,-31.59,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2025,p70-3649,2210.0,3649.0,Sapotaceae,Micropholis,guyanensis,leaf pulverized,42.9613720358194,-28.8520520712957,2.1352396,48.3725522,2.737714646464645,-31.18964284199364,3878,SV_cellulose.xlsx,
+SV,70.0,SV_70,2025,p70-3650,,3650.0,indet,,,leaf pulverized,42.13,-31.61,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,3650.0,indet,,,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,3650.0,indet,,,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,3652.0,Meliaceae,Guarea,,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,3652.0,Meliaceae,Guarea,,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-3876,2205.0,3654.0,Rubiaceae,Faramea,parvibractea,leaf herbarium,43.7429885211976,-34.2576307506012,,,,,3876,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-3876,2205.0,3654.0,Rubiaceae,Faramea,parvibractea,leaf herbarium,43.7429885211976,-34.2576307506012,,,,,3876,SV_cellulose.xlsx,
+SV,70.0,SV_70,2025,p70-3654,2205.0,3654.0,Rubiaceae,Faramea,parvibractea,leaf pulverized,42.1253720851618,-32.879883759186,2.201823142746578,39.56347601824302,1.86,-33.86,3876,SV_cellulose.xlsx,
+SV,70.0,SV_70,2025,p70-3654,2205.0,3654.0,Rubiaceae,Faramea,parvibractea,leaf pulverized,42.1253720851618,-32.879883759186,2.201823142746578,39.56347601824302,1.86,-33.86,3876,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3887,2230.0,3655.0,Bignoniaceae,Jacaranda,copaia,leaf herbarium,42.54,-30.91,,,,,3887,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,3656.0,indet,,,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,3656.0,indet,,,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2025,p70-3658,2202.0,3658.0,Achariaceae,Lindackeria,paludosa,leaf pulverized,45.45,-32.26,2.2130638,43.6691485,2.122085858585857,-33.32435503711559,3873,SV_cellulose.xlsx,
+SV,70.0,SV_70,2025,p70-3658,2202.0,3658.0,Achariaceae,Lindackeria,paludosa,leaf pulverized,40.7185817747011,-31.5051012323677,2.2130638,43.6691485,2.122085858585857,-33.32435503711559,3873,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,3659.0,Meliaceae,Guarea,pterorhachis,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,3659.0,Meliaceae,Guarea,pterorhachis,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,69.0,SV_69,2025,p69-8617,,8617.0,,,,leaf pulverized,42.5482890591904,-30.1388182040637,1.853964833900083,44.30114955907127,2.34,-32.61,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2025,p68-8640,,8640.0,,,,leaf pulverized,44.8257164326167,-27.3770370113265,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8688.0,Meliaceae,Guarea,sp.,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8688.0,Meliaceae,Guarea,sp.,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,72.0,SV_72,2025,p72-8688,,8688.0,Meliaceae,Guarea,sp.,leaf pulverized,40.8654154955345,-28.7781098108072,2.6106295,45.6459654,2.867320707070705,-30.49869734888653,,SV_cellulose.xlsx,
+SV,72.0,SV_72,2025,p72-8689,2310.0,8689.0,Myristicaceae,Virola,dixonii,leaf pulverized,45.5806811724309,-31.5216615977631,1.5163699,46.8505884,2.74851515151515,-32.67466002120891,3213,SV_cellulose.xlsx,
+SV,72.0,SV_72,2006,jh-3213,2310.0,8689.0,Myristicaceae,Virola,dixonii,leaf herbarium,46.6494965106332,-32.1413488554602,,,,,3213,SV_cellulose.xlsx,
+SV,72.0,SV_72,2025,p72-8690,2309.0,8690.0,Myrtaceae,Eugenia,,leaf pulverized,46.4981335324543,-29.06502482523,3.9906420999999996,43.2175376,2.370497474747473,-29.56024899257688,3209,SV_cellulose.xlsx,
+SV,72.0,SV_72,2025,p72-8693,2314.0,8693.0,Fabaceae,Inga,multinervis,leaf pulverized,47.23,-32.18,,,,,3198,SV_cellulose.xlsx,
+SV,72.0,SV_72,2006,jh-4774,2314.0,8693.0,Fabaceae,Inga,multinervis,leaf herbarium,44.19,-30.84,,,,,3198,SV_cellulose.xlsx,
+SV,72.0,SV_72,2006,jh-3214,2303.0,8695.0,Rubiaceae,Pentagonia,amazonica,leaf herbarium,52.1703514062085,-31.974735763936,,,,,3214,SV_cellulose.xlsx,
+SV,72.0,SV_72,2006,jh-p72-3214,2303.0,8695.0,Rubiaceae,Pentagonia,amazonica,leaf herbarium,44.879999999999995,-30.83,,,,,3214,SV_cellulose.xlsx,
+SV,72.0,SV_72,2025,p72-8695,2303.0,8695.0,Rubiaceae,Pentagonia,amazonica,leaf pulverized,42.8309647382475,-31.9553391744547,1.9071872,46.0067295,2.867320707070705,-33.52029480381761,3214,SV_cellulose.xlsx,
+SV,72.0,SV_72,2006,jh-3200,2315.0,8697.0,Myristicaceae,Otoba,parvifolia,leaf herbarium,50.61,-31.34,,,,,3200,SV_cellulose.xlsx,
+SV,72.0,SV_72,2025,p72-8697,2315.0,8697.0,Myristicaceae,Otoba,parvifolia,leaf pulverized,42.7507551767448,-32.234447004374,1.4962710000000001,48.0305405,1.290446969696968,-30.84932640509014,3200,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8698.0, Chrysobalanaceae,Hirtella,,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8698.0, Chrysobalanaceae,Hirtella,,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,72.0,SV_72,2006,jh-3197,2319.0,8699.0,Rutaceae,Amyris,macrocarpa,leaf herbarium,57.5,-33.69,,,,,3197,SV_cellulose.xlsx,
+SV,72.0,SV_72,2025,p72-8699,2319.0,8699.0,Rutaceae,Amyris,macrocarpa,leaf pulverized,41.9002689842602,-33.239736248638,1.9942396000000002,46.096468200000004,1.160840909090907,-34.56186935312832,3197,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8802.0,Lauraceae,Ocotea,oblonga,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8802.0,Lauraceae,Ocotea,oblonga,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,72.0,SV_72,2025,p72-8803,2288.0,8803.0,Lecythidaceae,Eschweilera,,leaf pulverized,42.0082033106923,-31.0055258755093,1.3534934,45.863189999999996,2.284093434343433,-32.93247550371157,3196,SV_cellulose.xlsx,
+SV,72.0,SV_72,2006,jh-4771,2288.0,8803.0,Lecythidaceae,Eschweilera,,leaf herbarium,45.63,-30.8,,,,,3196,SV_cellulose.xlsx,
+SV,72.0,SV_72,2025,p72-8804,2289.0,8804.0,Sapotaceae,Pouteria,guianensis,leaf pulverized,44.1750069808239,-32.9490118438408,1.6758675,47.3760231,1.76566919191919,-34.8712479321315,3206,SV_cellulose.xlsx,
+SV,72.0,SV_72,2006,jh-3206,2289.0,8804.0,Sapotaceae,Pouteria,guianensis,leaf herbarium,45.5796569444605,-31.9568923608235,,,,,3206,SV_cellulose.xlsx,
+SV,72.0,SV_72,2006,jh-3199,2287.0,8807.0,Fabaceae,Browneopsis,ucayalina,leaf herbarium,46.84,-30.1,,,,,3199,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8808.0,Melastomatacea,,,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8808.0,Melastomatacea,,,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8810.0,Euphorbiaceae,Pseudosenefeldera,inclinata,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8810.0,Euphorbiaceae,Pseudosenefeldera,inclinata,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,72.0,SV_72,2006,jh-3195,2292.0,8811.0,Moraceae,Sorocea,steinbachii,leaf herbarium,43.28,-31.33,,,,,3195,SV_cellulose.xlsx,
+SV,72.0,SV_72,2025,p72-8811,2292.0,8811.0,Moraceae,Sorocea,steinbachii,leaf pulverized,48.2294756543818,-29.5365889785962,2.1918119,40.927125399999994,1.970878787878786,-33.44810646871687,3195,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8812.0,Sapotaceae,Pouteria,,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8812.0,Sapotaceae,Pouteria,,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8813.0,Euphorbiaceae,Pseudosenefeldera,inclinata,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8813.0,Euphorbiaceae,Pseudosenefeldera,inclinata,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8814.0,Moraceae,Brosimum,,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8814.0,Moraceae,Brosimum,,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8816.0,indet,,,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8816.0,indet,,,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8819.0,Meliaceae,Guarea,,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8819.0,Meliaceae,Guarea,,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8820.0,Clusiaceae,,,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8820.0,Clusiaceae,,,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8821.0,Myristicaceae,Compsoneura,,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8821.0,Myristicaceae,Compsoneura,,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8822.0,Lauraceae,,,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8822.0,Lauraceae,,,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8825.0,Sapotaceae,Pouteria,sp.2,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8825.0,Sapotaceae,Pouteria,sp.2,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8827.0,Sapotaceae,Sarcaulus,brasiliensis,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8827.0,Sapotaceae,Sarcaulus,brasiliensis,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8828.0,Fabaceae,Macrolobium,cf. ischnocalyx,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8828.0,Fabaceae,Macrolobium,cf. ischnocalyx,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,74.0,SV_74,2006,jh-4779,2398.0,8829.0,Sapotaceae,Pouteria,vernicosa,leaf herbarium,45.05,-30.27,,,,,,SV_cellulose.xlsx,
+SV,74.0,SV_74,2025,p74-8829,2398.0,8829.0,Sapotaceae,Pouteria,vernicosa,leaf pulverized,49.45,-32.67,,,,,,SV_cellulose.xlsx,
+SV,74.0,SV_74,2025,p74-8830,2399.0,8830.0,Moraceae,Pseudolmedia,laevis,leaf pulverized,45.35,-30.61,,,,,3265,SV_cellulose.xlsx,
+SV,74.0,SV_74,2025,p74-8832,2393.0,8832.0,Violaceae,Leonia,longifolium,leaf pulverized,40.509559197114,-32.1358652529169,,,,,3270,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8834.0,indet,,,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8834.0,indet,,,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8836.0,Siparunaceae,Siparuna,sp.1,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8836.0,Siparunaceae,Siparuna,sp.1,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,74.0,SV_74,2025,p74-8838,2388.0,8838.0,Sapotaceae,Pouteria,cuspidata,leaf pulverized,45.6563961631267,-31.408251888962,1.506027773689399,48.10743319827603,0.25,-33.65,same as 3244,SV_cellulose.xlsx,
+SV,74.0,SV_74,2025,p74-8839,2390.0,8839.0,Salicaceae,Tetrathylacium,macrophyllum,leaf pulverized,47.43,-33.56,,,,,3280,SV_cellulose.xlsx,
+SV,74.0,SV_74,2006,jh-3280,2390.0,8839.0,Salicaceae,Tetrathylacium,macrophyllum,leaf herbarium,40.2334470281567,-31.2685056796215,,,,,3280,SV_cellulose.xlsx,
+SV,74.0,SV_74,2025,p74-8840,2389.0,8840.0,Sapotaceae,Pouteria,megaphylla,leaf pulverized,44.5740328512561,-33.5302479904779,1.3054872322637001,45.51252723799056,-1.16,-34.88,3269,SV_cellulose.xlsx,
+SV,74.0,SV_74,2006,jh-3269,2389.0,8840.0,Sapotaceae,Pouteria,megaphylla,leaf herbarium,50.65810447704,-32.325017436298,,,,,3269,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8841.0,Myristicaceae,"Osteophloeum 
+",,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8841.0,Myristicaceae,"Osteophloeum 
+",,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8843.0,Annonaceae,Guatteria,sp,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8843.0,Annonaceae,Guatteria,sp,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8848.0,Myristicaceae,Virola,,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8848.0,Myristicaceae,Virola,,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,74.0,SV_74,2025,p74-8849,2368.0,8849.0,Calophyllaceae,Marila,grandiflora,leaf pulverized,42.584605794486,-31.2207105692877,1.5797969964238898,48.92875807439671,0.44,-33.24,3163,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8850.0,Rubiaceae,,,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8850.0,Rubiaceae,,,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,74.0,SV_74,2025,p74-8853,2374.0,8853.0,Myrtaceae,Eugenia,,leaf pulverized,43.9837046243642,-33.1595942086546,1.315526705850149,44.737747009421255,-0.42,-34.64,3266,SV_cellulose.xlsx,
+SV,74.0,SV_74,2025,p74-8854,2375.0,8854.0,Moraceae,Sorocea,pubivena,leaf pulverized,41.94733475458,-29.5062469126404,2.065846271337194,39.322177743596306,-0.3,-31.32,3268,SV_cellulose.xlsx,
+SV,74.0,SV_74,2006,jh-3268,2375.0,8854.0,Moraceae,Sorocea,pubivena,leaf herbarium,43.8782733576757,-31.0841010573067,,,,,3268,SV_cellulose.xlsx,
+SV,74.0,SV_74,2025,p74-8855,2376.0,8855.0,Annonaceae,Guatteria,,leaf pulverized,44.84,-32.69,,,,,same as 3262,SV_cellulose.xlsx,
+SV,74.0,SV_74,2006,jh-4776,2376.0,8855.0,Annonaceae,Guatteria,,leaf herbarium,45.38,-33.85,,,,,same as 3262,SV_cellulose.xlsx,
+SV,74.0,SV_74,2025,p74-8859,2382.0,8859.0,Moraceae,Pseudolmedia,laevigata,leaf pulverized,42.1040303643344,-33.2155181816902,1.5196118276396249,39.90582769402648,0.5,-34.77,3264,SV_cellulose.xlsx,
+SV,74.0,SV_74,2006,jh-3264,2382.0,8859.0,Moraceae,Pseudolmedia,laevigata,leaf herbarium,46.05,-32.28,,,,,3264,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8861.0,Calophyllaceae,Marila,,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8861.0,Calophyllaceae,Marila,,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8862.0,Myristicaceae,Virola ,multinervia,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8862.0,Myristicaceae,Virola ,multinervia,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,74.0,SV_74,2025,p74-8863,2380.0,8863.0,Lauraceae,Pleurothyrium,,leaf pulverized,39.9182128244988,-30.9506111161297,1.8875040417539142,45.217282160825924,-0.82,-34.43,3273,SV_cellulose.xlsx,
+SV,74.0,SV_74,2006,jh-p74-3273,2380.0,8863.0,Lauraceae,Pleurothyrium,,leaf herbarium,41.67,-30.94,,,,,3273,SV_cellulose.xlsx,
+SV,74.0,SV_74,2025,p74-8863,2380.0,8863.0,Lauraceae,Pleurothyrium,,leaf pulverized,44.45,-31.32,1.8875040417539142,45.217282160825924,-0.82,-34.43,3273,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8864.0,Moraceae,Perebea,,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8864.0,Moraceae,Perebea,,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3928,2146.0,8865.0,Violaceae,Leonia,glycycarpa,leaf herbarium,45.59,-32.85,,,,,3928,SV_cellulose.xlsx,
+SV,68.0,SV_68,2025,p68-8867,2142.0,8867.0,Rhizophoraceae,Cassipourea,guianensis,leaf pulverized,40.510000000000005,-31.99,2.0640948,44.0605127,1.538858585858584,-34.17514612937434,3925,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3925,2142.0,8867.0,Rhizophoraceae,Cassipourea,guianensis,leaf herbarium,44.0,-32.37,,,,,3925,SV_cellulose.xlsx,
+SV,68.0,SV_68,2025,p68-8867,2142.0,8867.0,Rhizophoraceae,Cassipourea,guianensis,leaf pulverized,38.7624607513581,-31.9057679989876,2.0640948,44.0605127,1.538858585858584,-34.17514612937434,3925,SV_cellulose.xlsx,
+SV,68.0,SV_68,2025,68-8869,2141.0,8869.0,Sapotaceae,Sarcaulus,aff. oblatus,leaf pulverized,44.54,-29.77,,,,,3924,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3924,2141.0,8869.0,Sapotaceae,Sarcaulus,aff. oblatus,leaf herbarium,46.6,-27.68,,,,,3924,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3923,2139.0,8870.0,Lauraceae,Ocotea,,leaf herbarium,45.04,-31.56,,,,,3923,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3923,2139.0,8870.0,Lauraceae,Ocotea,,leaf herbarium,46.2650865133808,-31.969120461235,,,,,3923,SV_cellulose.xlsx,
+SV,68.0,SV_68,2025,p68-8870,2139.0,8870.0,Lauraceae,Ocotea,,leaf pulverized,42.1422622215152,-30.1393300132719,2.1749615,49.5438619,-0.5456388888888914,-34.0256131495228,3923,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8872.0,Fabaceae,Macrolobium,cf. ischnocalyx,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8872.0,Fabaceae,Macrolobium,cf. ischnocalyx,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8874.0,Euphorbiaceae,Pseudosenefeldera,inclinata,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8874.0,Euphorbiaceae,Pseudosenefeldera,inclinata,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2025,p68-8876,2133.0,8876.0,Sapotaceae,Pouteria,torta,leaf pulverized,45.5859024917889,-32.2573170187671,1.7456195,48.1396993,-0.6320429292929319,-34.2009276776246,3918,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3918,2133.0,8876.0,Sapotaceae,Pouteria,torta,leaf herbarium,45.42,-31.66,,,,,3918,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3920,2136.0,8878.0,Rubiaceae,Duroia,hirsuta,leaf herbarium,44.32,-32.58,,,,,3920,SV_cellulose.xlsx,
+SV,,SV_<NA>,2025,p68-8878,2136.0,8878.0,Rubiaceae,Duroia,hirsuta,,,,1.7277264,43.7306213,1.571260101010099,-34.25249077412514,3920,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8880.0,Rubiaceae,,,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8880.0,Rubiaceae,,,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2025,p68-8883,2155.0,8883.0,Melastomataceae,Miconia,sp,leaf pulverized,40.9764178729058,-30.0244515471261,1.4952077,40.6260288,2.392098484848483,-31.90121357370095,,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8884.0,Fabaceae,Macrolobium,cf. ischnocalyx,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8884.0,Fabaceae,Macrolobium,cf. ischnocalyx,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,,SV_<NA>,2025,p68-8885,2154.0,8885.0,Apocynaceae,Aspidosperma,aff. excelsum,,,,1.5294916,48.8282508,0.8692272727272705,-33.91217433722163,3921,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-p70-3904,,8886.0,Indet,,,leaf herbarium,39.989999999999995,-31.98,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3939,,8886.0,Indet,,,leaf herbarium,43.988840957983,-32.2331863143944,,,,,,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3929,2148.0,8888.0,Simaroubaceae,Simaba,polyphylla,leaf herbarium,46.39,-30.97,,,,,3929,SV_cellulose.xlsx,
+SV,68.0,SV_68,2025,p68-8888,2148.0,8888.0,Simaroubaceae,Simaba,polyphylla,leaf pulverized,45.0545859187322,-33.0441162369113,1.1420398999999999,43.0948024,2.435300505050503,-34.86093531283139,3929,SV_cellulose.xlsx,
+SV,68.0,SV_68,2025,p68-8889,2147.0,8889.0,Euphorbiaceae,Pseudosenefeldera,inclinata,leaf pulverized,41.9886199891232,-30.4633399452444,2.4841004,40.4913041,1.312047979797978,-31.78777476139979,,SV_cellulose.xlsx,
+SV,69.0,SV_69,2025,p69-8891,2185.0,8891.0,Sapindaceae,Allophylus,punctatus,leaf pulverized,42.1646348035949,-32.95862784708,2.990649007833678,44.2290096180273,-0.03,-35.22,3848,SV_cellulose.xlsx,
+SV,69.0,SV_69,2006,jh-3848,2185.0,8891.0,Sapindaceae,Allophylus,punctatus,leaf herbarium,43.8720328685896,-33.3170020435494,,,,,3848,SV_cellulose.xlsx,
+SV,69.0,SV_69,2025,p69-8892,2184.0,8892.0,Rubiaceae,Pentagonia,amazonica,leaf pulverized,42.8070573375508,-32.6885972072656,1.810419616968846,46.572465835029256,2.56,-34.8,3847,SV_cellulose.xlsx,
+SV,69.0,SV_69,2006,jh-3855,2199.0,8893.0,Moraceae,Pseudolmedia,macrophylla,leaf herbarium,38.87,-31.99,,,,,3855,SV_cellulose.xlsx,
+SV,69.0,SV_69,2025,69-8893,2199.0,8893.0,Moraceae,Pseudolmedia,macrophylla,leaf pulverized,43.4988316896495,-33.7079403532742,,,,,3855,SV_cellulose.xlsx,
+SV,69.0,SV_69,2006,jh-3853,2197.0,8894.0,Moraceae,Brosimum,lactescens,leaf herbarium,43.96,-26.92,,,,,3853,SV_cellulose.xlsx,
+SV,69.0,SV_69,2025,p69-8894,2197.0,8894.0,Moraceae,Brosimum,lactescens,leaf pulverized,46.54,-30.79,,,,,3853,SV_cellulose.xlsx,
+SV,69.0,SV_69,2025,p69-8895,2195.0,8895.0,Celastraceae,Salacia,aff. cordata,leaf pulverized,48.7370403004821,-35.0508631508533,2.466862000311886,48.742933324688956,2.82,-36.94,3852,SV_cellulose.xlsx,
+SV,69.0,SV_69,2025,p69-8898,2191.0,8898.0,Euphorbiaceae,Pseudosenefeldera,inclinata,leaf pulverized,41.0106971326434,-31.2602916893349,2.685294930046833,43.565853529435614,0.66,-33.2,,SV_cellulose.xlsx,
+SV,69.0,SV_69,2025,p69-8899,2190.0,8899.0,Lacistemataceae,Lozania,klugii,leaf pulverized,45.58,-31.71,,,,,3850,SV_cellulose.xlsx,
+SV,69.0,SV_69,2006,jh-3850,2190.0,8899.0,Lacistemataceae,Lozania,klugii,leaf herbarium,44.35,-31.5,,,,,3850,SV_cellulose.xlsx,
+SV,68.0,SV_68,2025,68-9865,,9865.0,,,,leaf pulverized,50.7386705764376,-32.9258451761764,,,,,,SV_cellulose.xlsx,
+SV,69.0,SV_69,2006,jh-3839,2169.0,,Euphorbiaceae,Pseudosenefeldera,inclinata,leaf herbarium,44.3057777292545,-31.9835064923571,,,,,3839,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3919,2150.0,,Opiliaceae,Agonandra,peruviana,leaf herbarium,45.96,-34.74,,,,,3919,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-3875,2209.0,,Salicaceae,Laetia,procera,leaf herbarium,44.57,-31.02,,,,,3875,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-3880,2213.0,,Myristicaceae,Iryanthera,juruensis,leaf herbarium,44.74,-31.46,,,,,3880,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3922,2138.0,,Fabaceae,Tachigali,chrysophylla,leaf herbarium,45.07,-28.4,,,,,3922,SV_cellulose.xlsx,
+SV,68.0,SV_68,2006,jh-3927,2145.0,,Clusiaceae,Garcinia,madruno,leaf herbarium,45.26,-33.6,,,,,3927,SV_cellulose.xlsx,
+SV,69.0,SV_69,2006,jh-3854,2198.0,,Lauraceae,Ocotea,aff. oblonga,leaf herbarium,46.16,-31.73,,,,,3854,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-4770,2243.0,,Moraceae,,,leaf herbarium,43.73,-30.69,,,,,3900,SV_cellulose.xlsx,
+SV,72.0,SV_72,2006,jh-4772,2297.0,,Myristicaceae,Compsoneura,aff sprucei,leaf herbarium,44.6,-33.06,,,,,3212,SV_cellulose.xlsx,
+SV,72.0,SV_72,2006,jh-3212,2297.0,,Myristicaceae,Compsoneura,aff sprucei,leaf herbarium,45.87,-32.32,,,,,3212,SV_cellulose.xlsx,
+SV,72.0,SV_72,2006,jh-4773,2304.0,,Euphorbiaceae,Mabea,klugii,leaf herbarium,49.84,-35.43,,,,,3215,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-3900,2243.0,,Moraceae,,,leaf herbarium,44.95,-30.58,,,,,3900,SV_cellulose.xlsx,
+SV,70.0,SV_70,2006,jh-3901,2244.0,,Violaceae,Fusispermum,laxiflorum,leaf herbarium,45.33,-31.74,,,,,3901,SV_cellulose.xlsx,
+Oyacachi,82.0,Oyacachi_82,2011,p82-4039,4039.0,4039.0,Solanaceae,Solanum,stenophyllum,leaf pulverized,45.05998751719071,-24.65,1.51882697871205,44.0427196028166,-2.154078726634344,-27.4193877477283,4194.0,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,81.0,Oyacachi_81,2011,p81-4020,4020.0,8016.0,Rosaceae,Polylepis,pauta,leaf pulverized,45.78185494527062,-26.37,2.98489268184404,45.8888019397984,0.1349357381299697,-28.9601061104354,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,81.0,Oyacachi_81,2011,p81-4021,4021.0,8013.0,Asteraceae,Gynoxis,acostae,leaf pulverized,45.85056560902917,-24.82,2.30858540158555,42.7543386536824,-0.7261575928982733,-26.5153645865996,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,81.0,Oyacachi_81,2011,p81-4022,4022.0,8039.0,Rosaceae,Polylepis,pauta,leaf pulverized,43.99153645459705,-25.65,2.69862773225167,45.0742897221732,0.3562018621663939,-28.1224085592093,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,81.0,Oyacachi_81,2011,p81-4027,4027.0,8052.0,Rosaceae,Polylepis,pauta,leaf pulverized,45.93526033556084,-25.14,2.77688122312535,44.9815009515712,1.26452825204562,-27.7660706966673,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,82.0,Oyacachi_82,2011,p82-4034,4034.0,4034.0,Asteraceae,Gynoxis,induta,leaf pulverized,44.50739680752388,-25.72,1.02519169918504,44.226189517193,-4.942629677025145,-27.4221314889763,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,82.0,Oyacachi_82,2011,p82-4035,4035.0,4036.0,Rosaceae,Polylepis,pauta,leaf pulverized,45.68813628266524,-25.26,2.47253057214418,46.4258466455933,-2.015539798641939,-27.7124658663816,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,82.0,Oyacachi_82,2011,p82-4038,4038.0,4038.0,Solanaceae,Solanum,stenophyllum,leaf pulverized,44.8272916274702,-26.07,2.67392159699671,45.7456281223962,6.235676061147208,-29.1071571452918,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,82.0,Oyacachi_82,2011,p82-4043,4043.0,8080.0,Rosaceae,Polylepis,pauta,leaf pulverized,,,2.47063005938469,45.8420133350544,-1.02071940083506,-27.7203835273879,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,82.0,Oyacachi_82,2011,p82-4044,4044.0,4044.0,Asteraceae,Gynoxis,cf,leaf pulverized,44.99950540509508,-24.15,1.628595169,-3.431582754,42.0576301,-26.3117917,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,82.0,Oyacachi_82,2011,p82-4045,4045.0,4045.0,Rosaceae,Polylepis,pauta,leaf pulverized,43.84988184998212,-25.31,2.3578482967968,45.6090640427828,-1.529282344445721,-27.7804838406912,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,82.0,Oyacachi_82,2011,p82-4046,4046.0,4046.0,Asteraceae,Gynoxis,cf,leaf pulverized,45.49,-27.6,1.64177197757741,42.3996326323849,-1.999047930245834,-26.0336799935917,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,82.0,Oyacachi_82,2011,p82-4050,4050.0,4050.0,Rosaceae,Polylepis,pauta,leaf pulverized,45.81181702871249,-25.05,2.19651476188582,44.7080589713033,-2.29950232410132,-27.5184692868895,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,85.0,Oyacachi_85,2011,p85-4100,4100.0,8066.0,Asteraceae,Verbesina,,leaf pulverized,44.81877897413047,-23.66,2.88973903569805,41.2553224528781,0.3695417051192454,-25.802253455736,,iWUE_OYC_GUA.xlsx,3500.0
+Oyacachi,85.0,Oyacachi_85,2011,p85-4101,4101.0,8067.0,Asteraceae,Verbesina,,leaf pulverized,44.96473740003615,-23.7,2.94689075407411,41.8394774311999,0.638945328245771,-26.0731025344455,,iWUE_OYC_GUA.xlsx,3500.0
+Oyacachi,85.0,Oyacachi_85,2011,p85-4105,4105.0,8071.0,Solanaceae,Seesea,crasivenosa,leaf pulverized,44.20571555230563,-22.85,2.07451873137602,42.5649993980794,1.533571099418812,-25.7347764827582,,iWUE_OYC_GUA.xlsx,3500.0
+Oyacachi,85.0,Oyacachi_85,2011,p85-4106,4106.0,8076.0,Asteraceae,Verbesina,,leaf pulverized,44.26933269854089,-25.95,2.96927657844675,40.5680003168707,2.04803939705911,-27.8567453165173,,iWUE_OYC_GUA.xlsx,3500.0
+Oyacachi,85.0,Oyacachi_85,2011,p85-4110,4110.0,4110.0,Solanaceae,Seesea,crasivenosa,leaf pulverized,43.86223879426386,-25.07,1.77333213879914,39.6150534950338,3.557496918037326,-27.098174832436,,iWUE_OYC_GUA.xlsx,3500.0
+Oyacachi,85.0,Oyacachi_85,2011,p85-4115,4115.0,8072.0,Asteraceae,Verbesina,,leaf pulverized,45.42878404532536,-24.11,3.24349379578217,42.3636484593462,2.092706082436056,-26.1303956401564,,iWUE_OYC_GUA.xlsx,3500.0
+Oyacachi,83.0,Oyacachi_83,2011,p83-4240,4240.0,4240.0,Asteraceae,Gynoxis,acostae,leaf pulverized,45.26921958553201,-25.13,1.71072628526175,44.4526142125919,-3.512787284702233,-27.8497566770923,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,83.0,Oyacachi_83,2011,p83-4241,4241.0,4241.0,Asteraceae,Gynoxis,acostae,leaf pulverized,45.20780688123111,-22.95,2.08558607863521,47.5904284466894,-2.335299599612302,-27.0551806154337,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,83.0,Oyacachi_83,2011,p83-4242,4242.0,4242.0,Rosaceae,Polylepis,pauta,leaf pulverized,44.44448289608685,-24.71,2.39213551272101,45.4136348266219,-1.14016397878408,-27.5404157929734,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,83.0,Oyacachi_83,2011,p83-4244,4244.0,8068.0,Asteraceae,Gynoxis,acostae,leaf pulverized,45.02795254274201,-25.53,1.57036486546384,43.8694413850068,-3.280767599836543,-27.7681194996149,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,83.0,Oyacachi_83,2011,p83-4248,4248.0,4248.0,Rosaceae,Polylepis,pauta,leaf pulverized,45.68162440093023,-25.61,2.67246418852085,45.1656094949497,-1.54208275313589,-27.7553306234662,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,83.0,Oyacachi_83,2011,p83-4249,4249.0,4249.0,Rosaceae,Polylepis,pauta,leaf pulverized,,,2.49931722525938,45.6538583461269,-0.9677145196209617,-27.4911600963206,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,83.0,Oyacachi_83,2011,p83-4250,4250.0,4250.0,Asteraceae,Gynoxis,acostae,leaf pulverized,45.08798083524663,-24.88,2.55761757424015,45.3997995808071,-1.288416099342823,-27.648437665245,,iWUE_OYC_GUA.xlsx,4000.0
+Guacamayos,6.0,Guacamayos_6,2023,p06-8186,157.0,8186.0,Euphorbiaceae,Sapium,stylare,leaf pulverized,33.23899805693006,-28.65,2.52018830219559,42.0259912548341,0.6841259666765508,-29.8784911182644,,iWUE_OYC_GUA.xlsx,
+Guacamayos,6.0,Guacamayos_6,2023,p06-8194,161.0,8194.0,Meliaceae,Guarea,kunthiana,leaf pulverized,46.21458177218584,-29.11,2.01460904366692,44.6571706685869,0.4978400848706608,-30.4539594853953,,iWUE_OYC_GUA.xlsx,
+Guacamayos,6.0,Guacamayos_6,2023,p06-8194,161.0,8194.0,Meliaceae,Guarea,kunthiana,leaf pulverized,46.21458177218584,-29.11,2.01460904366692,44.6571706685869,0.4978400848706608,-30.4539594853953,,iWUE_OYC_GUA.xlsx,
+Guacamayos,6.0,Guacamayos_6,2023,p06-8188,158.0,8188.0,Fabaceae,Dussia,tessmanniii,leaf pulverized,44.27375288947213,-29.41,3.19546193369847,43.6204853506852,-0.09922086425692878,-30.2006060499668,,iWUE_OYC_GUA.xlsx,
+Guacamayos,6.0,Guacamayos_6,2023,p06-8182,151.0,8182.0,Rubiaceae,Posoqueria,,leaf pulverized,43.85,-30.05,1.69199067733282,39.0083066159839,0.5597874835713825,-30.7270779116631,,iWUE_OYC_GUA.xlsx,
+Guacamayos,7.0,Guacamayos_7,2023,p07-8147,178.0,8147.0,Rubiaceae,Chomelia,tenuiflora,leaf pulverized,44.15718100926103,-28.69,3.27378032737423,45.797519599712,-0.02889027407499956,-30.0349939371871,,iWUE_OYC_GUA.xlsx,
+Guacamayos,7.0,Guacamayos_7,2023,p07-8151,186.0,8151.0,Rubiaceae,Elaegia,karstenii,leaf pulverized,46.17,-26.78,1.5419363634401,44.9475022698596,0.662112190122498,-29.2765716637333,,iWUE_OYC_GUA.xlsx,
+Guacamayos,8.0,Guacamayos_8,2023,p08-8136,218.0,8136.0,Melastomataceae,Miconia,glandulistyla,leaf pulverized,45.54213094035732,-28.71,1.36184254355202,42.5737778185049,-0.5485769486217338,-30.2527316954992,,iWUE_OYC_GUA.xlsx,
+Guacamayos,8.0,Guacamayos_8,2023,p08-8135,214.0,8135.0,Lauraceae,Cryptocarya,,leaf pulverized,45.93956862030475,-28.16,2.8342899647558,48.8759471413264,-0.632441728041657,-29.7678005379286,,iWUE_OYC_GUA.xlsx,
+Guacamayos,8.0,Guacamayos_8,2023,p08-8133,209.0,8133.0,Meliaceae,Ruagea,cf,leaf pulverized,44.39762420055948,-30.92,2.93473050313524,44.2611011549572,-1.122759655714846,-32.068752480095,,iWUE_OYC_GUA.xlsx,
+Guacamayos,55.0,Guacamayos_55,2023,p55-8120,1645.0,8120.0,Rubiaceae,Palicourea,demissa,leaf pulverized,43.53127007787473,-28.65,2.05292522793168,38.5506665270289,0.8174117147819279,-30.2189898139128,,iWUE_OYC_GUA.xlsx,
+Guacamayos,55.0,Guacamayos_55,2023,p55-8123,1648.0,8123.0,Chloranthaceae,Hedyosmum,cuatrecazanum,leaf pulverized,44.97329961361584,-26.69,2.1976573617928,40.6556912614629,1.432780797200249,-28.837504201117,,iWUE_OYC_GUA.xlsx,
+Guacamayos,55.0,Guacamayos_55,2023,p55-8122,1649.0,8122.0,Meliaceae,Ruagea,glabra,leaf pulverized,44.67065684895357,-26.83,2.45141607210047,43.6923195991479,-0.9997105904847055,-28.0085607124463,,iWUE_OYC_GUA.xlsx,
+Oyacachi,82.0,Oyacachi_82,2023,p82-4039,4039.0,4039.0,Solanaceae,Solanum,stenophyllum,leaf pulverized,43.65307755435455,-28.84,2.86224761771615,43.5709386123649,5.541413134692281,-31.2288684648779,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,81.0,Oyacachi_81,2023,p81-8016,4020.0,8016.0,Rosaceae,Polylepis,pauta,leaf pulverized,44.44205714996029,-28.84,2.51405240653,44.7883368116588,0.4186797223972525,-31.3157955737302,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,81.0,Oyacachi_81,2023,p81-8013,4021.0,8013.0,Asteraceae,Gynoxis,acostae,leaf pulverized,,,2.02159852497584,40.9193812123684,-0.1476469751900702,-29.684556890811,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,81.0,Oyacachi_81,2023,p81-8039,4022.0,8039.0,Rosaceae,Polylepis,pauta,leaf pulverized,46.24958928586945,-28.44,2.48572557718715,44.278324678279,0.5165678132678139,-30.399360838382,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,81.0,Oyacachi_81,2023,p81-8052,4027.0,8052.0,Rosaceae,Polylepis,pauta,leaf pulverized,44.17087954499277,-28.82,2.44246820940989,44.0723344363411,0.7549590781500702,-30.7835752667676,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,82.0,Oyacachi_82,2023,p82-4034,4034.0,4034.0,Asteraceae,Gynoxis,induta,leaf pulverized,44.62413839400409,-25.48,1.07816234819192,44.4223659746941,-4.809315502947088,-27.7298255567916,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,82.0,Oyacachi_82,2023,p82-4036,4035.0,4036.0,Rosaceae,Polylepis,pauta,leaf pulverized,44.53016936884806,-27.59,2.29322877216191,45.7157312920357,-0.6582849508390684,-29.9620734298722,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,82.0,Oyacachi_82,2023,p82-4038,4038.0,4038.0,Solanaceae,Solanum,stenophyllum,leaf pulverized,57.73299333090606,-28.485,2.83630159322114,43.8405809549193,5.410762662181923,-30.5642491726004,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,82.0,Oyacachi_82,2023,p82-8080,4043.0,8080.0,Rosaceae,Polylepis,pauta,leaf pulverized,43.37382012740808,-27.14,2.48290022295912,45.7165070116741,-1.272880448641037,-29.466508941976,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,82.0,Oyacachi_82,2023,p82-4044,4044.0,4044.0,Asteraceae,Gynoxis,cf,leaf pulverized,44.35045479681124,-26.05,1.71941149236985,43.0087483230968,-2.540215906456816,-27.878374097364,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,82.0,Oyacachi_82,2023,p82-4045,4045.0,4045.0,Rosaceae,Polylepis,pauta,leaf pulverized,43.65516023355507,-29.36,2.23072257177204,44.2895569439585,-1.522438227503326,-31.5204223248455,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,82.0,Oyacachi_82,2023,p82-4046,4046.0,4046.0,Asteraceae,Gynoxis,cf,leaf pulverized,45.49,-27.6,1.70042225244169,41.9528040750629,-3.385049173422548,-28.9226113239001,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,82.0,Oyacachi_82,2023,p82-4050,4050.0,4050.0,Rosaceae,Polylepis,pauta,leaf pulverized,44.47170098265144,-27.12,1.93178223473168,45.0911717292375,-0.6537243068424671,-29.2949542703961,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,83.0,Oyacachi_83,2023,p83-4055,4055.0,4055.0,Asteraceae,Gynoxis,acostae,leaf pulverized,45.27483755431948,-26.97,1.12713592085588,42.8054793698961,-3.773851157258689,-28.7415002507909,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,85.0,Oyacachi_85,2023,p85-8066,4100.0,8066.0,Asteraceae,Verbesina,,leaf pulverized,,,2.63914808226952,40.660138058169,0.8483315263200533,-30.8552148137931,,iWUE_OYC_GUA.xlsx,3500.0
+Oyacachi,85.0,Oyacachi_85,2023,p85-8067,4101.0,8067.0,Asteraceae,Verbesina,,leaf pulverized,32.49087325546191,-27.61,2.26764489845119,40.8773999666782,0.822218722727017,-29.6718157017729,,iWUE_OYC_GUA.xlsx,3500.0
+Oyacachi,85.0,Oyacachi_85,2023,p85-8071,4105.0,8071.0,Solanaceae,Seesea,crasivenosa,leaf pulverized,44.43103925466794,-24.09,2.10536677222991,41.4131242312971,2.023826249697199,-26.3068316062315,,iWUE_OYC_GUA.xlsx,3500.0
+Oyacachi,85.0,Oyacachi_85,2023,p85-8076,4106.0,8076.0,Asteraceae,Verbesina,,leaf pulverized,44.99131881377813,-28.34,2.73450845198964,40.7330855451006,2.683112569134044,-30.3646474339126,,iWUE_OYC_GUA.xlsx,3500.0
+Oyacachi,85.0,Oyacachi_85,2023,p85-4110,4110.0,4110.0,Solanaceae,Seesea,crasivenosa,leaf pulverized,,,2.46851625746442,38.1077127441314,3.088332842687839,-29.1274502114255,,iWUE_OYC_GUA.xlsx,3500.0
+Oyacachi,85.0,Oyacachi_85,2023,p85-4112,4112.0,4112.0,Solanaceae,Seesea,crasivenosa,leaf pulverized,46.97,-25.64,2.34953594498787,41.10229651437,2.949200902694002,-27.3036548931159,,iWUE_OYC_GUA.xlsx,3500.0
+Oyacachi,85.0,Oyacachi_85,2023,p85-8072,4115.0,8072.0,Asteraceae,Verbesina,,leaf pulverized,43.34641726956603,-26.25,2.56289635041481,41.4950660098571,3.350661677675897,-28.0455221828949,,iWUE_OYC_GUA.xlsx,3500.0
+Oyacachi,83.0,Oyacachi_83,2023,p83-4240,4240.0,4240.0,Asteraceae,Gynoxis,acostae,leaf pulverized,45.35364468497561,-26.77,1.24437852064818,44.1565486811065,-4.218972879529309,-29.3524716368579,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,83.0,Oyacachi_83,2023,p83-4241,4241.0,4241.0,Asteraceae,Gynoxis,acostae,leaf pulverized,45.37628256952662,-25.91,1.95635210452916,46.8006815255553,-1.99131500507252,-29.4206922810776,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,83.0,Oyacachi_83,2023,p83-4242,4242.0,4242.0,Rosaceae,Polylepis,pauta,leaf pulverized,43.12477906874004,-26.35,1.97708478310127,45.4165077564438,-1.188464246679767,-29.1208972383659,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,83.0,Oyacachi_83,2023,p83-8068,4244.0,8068.0,Asteraceae,Gynoxis,acostae,leaf pulverized,44.0322432633165,-26.02,1.33410540758581,43.975550901834,-3.18750813034382,-28.2841954284381,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,83.0,Oyacachi_83,2023,p83-4248,4248.0,4248.0,Rosaceae,Polylepis,pauta,leaf pulverized,43.11260137057986,-27.24,1.88327996060043,45.1156450555458,-0.3666700497789475,-29.8405140616203,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,83.0,Oyacachi_83,2023,p83-4249,4249.0,4249.0,Rosaceae,Polylepis,pauta,leaf pulverized,45.22457855032971,-26.4,2.16427915217123,45.7428455126452,-1.731987714522008,-28.9155380570844,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,83.0,Oyacachi_83,2023,p83-4250,4250.0,4250.0,Asteraceae,Gynoxis,acostae,leaf pulverized,44.59872112610041,-27.62,2.18984274036813,45.2353956233649,-0.5617373008540907,-30.1978000315524,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,81.0,Oyacachi_81,2023,p81-8023,,8023.0,Rosaceae,Polylepis,pauta,leaf pulverized,44.04395189751652,-28.4,2.301508333,-1.42224741,43.15749161,-30.80086268,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,81.0,Oyacachi_81,2023,p81-8034,,8034.0,Rosaceae,Polylepis,pauta,leaf pulverized,42.62488416383843,-29.08,2.23030055571351,44.4459394757305,0.340789025756049,-31.174238487643,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,81.0,Oyacachi_81,2023,p81-8056,,8056.0,Asteraceae,Gynoxis,acostae,leaf pulverized,46.12463283982211,-25.81,1.94200043185393,42.9592808481771,-0.7740626629733587,-28.0353198724391,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,81.0,Oyacachi_81,2023,p81-8035,,8035.0,Asteraceae,Gynoxis,acostae,leaf pulverized,46.91994218877939,-27.35,2.19050179555837,41.711800238929,-0.9946325583738203,-29.4940189495252,,iWUE_OYC_GUA.xlsx,4000.0
+Oyacachi,85.0,Oyacachi_85,2023,p85-8073,,8073.0,Solanaceae,Seesea,crasivenosa,leaf pulverized,33.20193208428898,-26.03,2.15870733280776,41.4082494202211,2.706983226457744,-27.5608692043464,,iWUE_OYC_GUA.xlsx,3500.0
+Guacamayos,6.0,Guacamayos_6,2023,p06-8203,143.0,8203.0,Rubiaceae,Palicourea,stenosepala,leaf pulverized,43.41817128946882,-29.6,1.92896098652935,42.8576289111561,-0.5831175916004572,-31.3686998662389,,iWUE_OYC_GUA.xlsx,
+Guacamayos,6.0,Guacamayos_6,2023,p06-8181,148.0,8181.0,Moraceae,Ficus,tonduzi,leaf pulverized,41.44488708014945,-28.78,2.16727866341468,36.3995131965624,-0.13390051917979,-29.3965622896345,,iWUE_OYC_GUA.xlsx,
+Guacamayos,6.0,Guacamayos_6,2023,p06-8200,169.0,8200.0,Asteraceae,Critoniopsis,cf,leaf pulverized,45.3285601335725,-26.51,3.27982169951129,44.152205149833,1.691458335598433,-29.2314348099085,,iWUE_OYC_GUA.xlsx,
+Guacamayos,6.0,Guacamayos_6,2023,p06-8200,169.0,8200.0,Asteraceae,Critoniopsis,cf,leaf pulverized,45.3285601335725,-26.51,3.27982169951129,44.152205149833,1.691458335598433,-29.2314348099085,,iWUE_OYC_GUA.xlsx,
+Guacamayos,7.0,Guacamayos_7,2023,p07-8150,183.0,8150.0,Rubiaceae,Joosia,ulei,leaf pulverized,24.41813760506811,-31.49,2.6705459139998,43.5815598252663,1.345767134215443,-32.5325551251705,,iWUE_OYC_GUA.xlsx,
+Guacamayos,7.0,Guacamayos_7,2023,p07-8149,184.0,8149.0,Euphorbiaceae,Tetrochidium,andinum,leaf pulverized,43.72,-29.34,2.75667756446349,41.6417061765214,1.489008354151975,-30.3557188060923,,iWUE_OYC_GUA.xlsx,
+Guacamayos,7.0,Guacamayos_7,2023,p07-8152,191.0,8152.0,Rubiaceae,Joosia,ulei,leaf pulverized,45.36583922537127,-31.23,2.1968668130622,43.5585534741205,0.2146056479315846,-32.4284698901533,,iWUE_OYC_GUA.xlsx,
+Guacamayos,7.0,Guacamayos_7,2023,p07-8158,199.0,8158.0,Rubiaceae,Joosia,ulei,leaf pulverized,19.51971950360319,-27.81,2.61531950583142,41.4819247885737,-0.2275743677079952,-32.0215221296286,,iWUE_OYC_GUA.xlsx,
+Guacamayos,8.0,Guacamayos_8,2023,p08-8140,202.0,8140.0,Meliaceae,Guarea,kunthiana,leaf pulverized,45.83156140342884,-26.34,2.52280320193024,44.8340764084663,2.1479700273715,-26.9227021214215,,iWUE_OYC_GUA.xlsx,
+Guacamayos,8.0,Guacamayos_8,2023,p08-8130,203.0,8130.0,Rubiaceae,Faramea,oblongifolia,leaf pulverized,45.00310488018739,-25.2,1.81001028480679,40.4658683092761,-1.693906682470842,-27.1661758818443,,iWUE_OYC_GUA.xlsx,
+Guacamayos,8.0,Guacamayos_8,2023,p08-8132,208.0,8132.0,Phyllanthaceae,Hieronyma,oblonga,leaf pulverized,45.43275844816041,-30.09,1.97523837773527,42.9417457895339,1.44930784745598,-31.2097163898844,,iWUE_OYC_GUA.xlsx,
+Guacamayos,8.0,Guacamayos_8,2023,p08-8141,210.0,8141.0,Fabaceae,Erythrina,edulis,leaf pulverized,42.50813358848679,-25.8,3.11551685778085,43.1073470573462,-0.1310764746448196,-28.3345207608877,,iWUE_OYC_GUA.xlsx,
+Guacamayos,8.0,Guacamayos_8,2023,p08-8139,212.0,8139.0,Cunoniaceae,Weinmania,pinnta,leaf pulverized,42.45340238453527,-29.71,2.02569444888933,42.5998766314536,-1.340765049393979,-31.2773654240835,,iWUE_OYC_GUA.xlsx,
+Guacamayos,55.0,Guacamayos_55,2023,p55-8107,1643.0,8107.0,Annonaceae,Annona,sp.,leaf pulverized,45.64830763373875,-29.6,3.69211450302745,44.5747483173188,0.4204395560151711,-30.1542330545938,,iWUE_OYC_GUA.xlsx,
+Guacamayos,55.0,Guacamayos_55,2023,p55-8124,1647.0,8124.0,Lauraceae,Nectandra,laurel,leaf pulverized,45.04146477234478,-28.82,1.70276604141184,47.0677983722274,-2.280938489028332,-30.5434578146655,,iWUE_OYC_GUA.xlsx,
+Guacamayos,55.0,Guacamayos_55,2023,p55-8106,1678.0,8106.0,Rubiaceae,Farameo,oblongifolia,leaf pulverized,43.46309389912029,-28.07,2.06748668368258,39.7988522672046,-0.2308464443057385,-29.2491632472373,,iWUE_OYC_GUA.xlsx,
+Guacamayos,7.0,Guacamayos_7,2023,p07-8154,,8154.0,Rubiaceae,Joosia,ulei,leaf pulverized,45.06,-30.01,2.45034469589428,44.0445983959808,-0.1489320573871239,-31.4878760958369,,iWUE_OYC_GUA.xlsx,
+Guacamayos,6.0,Guacamayos_6,2005,p06-1689.0,157.0,8186.0,Euphorbiaceae,Sapium,stylare,herbarium,42.43403731205088,-25.51,3.35792397709957,41.9211470613874,1.907002486103961,-27.333327292607,1689.0,iWUE_OYC_GUA.xlsx,
+Guacamayos,6.0,Guacamayos_6,2005,p06-1711.0,151.0,8182.0,Rubiaceae,Posoqueria,,herbarium,45.36050104245147,-30.28,1.9960066613919,42.5940452089312,0.7565317128472872,-31.0695419485989,1711.0,iWUE_OYC_GUA.xlsx,
+Guacamayos,7.0,Guacamayos_7,2005,p07-1715.0,178.0,8147.0,Rubiaceae,Chomelia,tenuiflora,herbarium,44.53377308181305,-31.16,2.76589785410334,44.3716948156506,2.185417454873428,-31.4928774116967,1715.0,iWUE_OYC_GUA.xlsx,
+Guacamayos,7.0,Guacamayos_7,2005,p07-1738.0,186.0,8151.0,Rubiaceae,Elaegia,karstenii,herbarium,45.43278144278158,-29.17,2.05313341264609,46.5643441491692,2.249046444807238,-31.6879728105795,1738.0,iWUE_OYC_GUA.xlsx,
+Guacamayos,55.0,Guacamayos_55,2007,p55-3150.0,1645.0,8120.0,Rubiaceae,Palicourea,demissa,herbarium,45.44247503782463,-30.3,3.04470840861578,38.7143490808578,3.191434428553005,-30.7132437884008,3150.0,iWUE_OYC_GUA.xlsx,
+Guacamayos,55.0,Guacamayos_55,2007,p55-3151.0,1648.0,8123.0,Chloranthaceae,Hedyosmum,cuatrecazanum,herbarium,43.72773338949531,-26.87,2.43575765718819,40.4955029803786,1.405574275634229,-29.2663074760755,3151.0,iWUE_OYC_GUA.xlsx,
+Oyacachi,82.0,Oyacachi_82,2009,p82-4194.0,4039.0,4039.0,Solanaceae,Solanum,stenophyllum,herbarium,44.2214859274287,-27.29,3.46008158889689,45.94548483731,5.333406134442499,-29.2231945725637,4194.0,iWUE_OYC_GUA.xlsx,4000.0
+Guacamayos,7.0,Guacamayos_7,2006,p07-178,178.0,8147.0,Rubiaceae,Chomelia,tenuiflora,leaf pulverized,42.3153287103575,-28.1463758657295,3.102865446774084,53.852797211975734,0.69,-30.14,,iWUE_OYC_GUA.xlsx,
+Guacamayos,6.0,Guacamayos_6,2006,p06-169,169.0,8200.0,Asteraceae,Critoniopsis,cf,leaf pulverized,44.1847568409624,-28.2916676823504,3.072015966621176,45.44398396122426,0.35,-29.69,,iWUE_OYC_GUA.xlsx,
+Guacamayos,8.0,Guacamayos_8,2006,p08-210,210.0,8141.0,Fabaceae,Erythrina,edulis,leaf pulverized,44.0493625260597,-26.0088817121064,2.791351686241129,40.55964641710267,2.62,-26.75,,iWUE_OYC_GUA.xlsx,
+Guacamayos,7.0,Guacamayos_7,2006,p07-185,185.0,,Rubiaceae,Joosia,umbellifera,leaf pulverized,40.1267154082355,-30.117772018719,2.7157373499916138,43.383843299356826,1.68,-31.72,,iWUE_OYC_GUA.xlsx,
+Guacamayos,7.0,Guacamayos_7,2006,p07-199,199.0,8158.0,Rubiaceae,Joosia,umbellifera,leaf pulverized,43.7224838903424,-29.5928600653218,2.54395335967698,44.70760802662179,1.42,-31.62,,iWUE_OYC_GUA.xlsx,
+Guacamayos,7.0,Guacamayos_7,2006,p07-200,200.0,8159.0,Lauraceae,Aniba,muca,leaf pulverized,42.754053254055,-30.9552505558022,1.6288159021213648,48.58583549207572,-0.11,-32.63,,iWUE_OYC_GUA.xlsx,
+Guacamayos,8.0,Guacamayos_8,2006,p08-203,203.0,8130.0,Rubiaceae,Faramea,oblongifolia,leaf pulverized,43.6258099070622,-30.9931125488299,1.773544441544489,40.31605311129898,-1.62,-31.9,,iWUE_OYC_GUA.xlsx,
+Guacamayos,7.0,Guacamayos_7,2006,p07-179,179.0,,Euphorbiaceae,Tetrorchidium,andinum,leaf pulverized,45.9375479511701,-30.1010096700507,2.98852005898983,45.82454534910876,7.87,-30.31,,iWUE_OYC_GUA.xlsx,
+Guacamayos,8.0,Guacamayos_8,2006,p08-209,209.0,8133.0,Meliaceae,Ruagea,,leaf pulverized,44.4730895188967,-29.2347173600147,2.643485797488288,44.73242003352184,-0.14,-30.32,,iWUE_OYC_GUA.xlsx,
+Guacamayos,6.0,Guacamayos_6,2006,p06-151,151.0,8182.0,Rubiaceae,Posoqueria,coriacea,leaf pulverized,44.9145959517734,-27.645548665252,1.9081252095165449,45.442614457296045,-0.39,-28.77,,iWUE_OYC_GUA.xlsx,
+Guacamayos,7.0,Guacamayos_7,2006,p07-181,181.0,,Mimosaceae,Inga,sp.,leaf pulverized,46.3352144907804,-29.4868790363093,,,,,,iWUE_OYC_GUA.xlsx,
+Guacamayos,6.0,Guacamayos_6,2006,p06-148,148.0,8181.0,Moraceae,Ficus,tonduzii,leaf pulverized,40.6053715481823,-28.1121828530044,3.3740456388809825,37.23854771949546,0.4,-29.35,,iWUE_OYC_GUA.xlsx,
+Guacamayos,6.0,Guacamayos_6,2006,p06-143,143.0,8203.0,Cunoniaceae,Weinmannia,pinnata,leaf pulverized,43.6652791109008,-28.3727068118635,1.6197016369226338,43.860669553546025,-1.85,-30.11,,iWUE_OYC_GUA.xlsx,
+Guacamayos,6.0,Guacamayos_6,2006,p06-142,142.0,,Rubiaceae,Palicourea,stenosepala,leaf pulverized,42.8065750392793,-27.0384835826904,2.6922727141259752,40.105604861785984,0.59,-28.55,,iWUE_OYC_GUA.xlsx,
+Guacamayos,7.0,Guacamayos_7,2006,p07-182,182.0,,Lauraceae,Endlicheria,griseo-sericea,leaf pulverized,43.6729653838469,-30.6170064768113,2.315074402735965,45.41757418344188,-0.37,-31.86,,iWUE_OYC_GUA.xlsx,
+Guacamayos,6.0,Guacamayos_6,2006,p06-158,158.0,8188.0,Anacardiaceae,,sp.,leaf pulverized,44.9488330007575,-29.8431956964564,2.59832691563732,42.392485602470494,-0.8,-30.48,,iWUE_OYC_GUA.xlsx,
+Guacamayos,6.0,Guacamayos_6,2006,p06-158,158.0,8188.0,Anacardiaceae,,sp.,leaf pulverized,44.9488330007575,-29.8431956964564,2.717910221519865,41.5862488670643,-0.6823549684089606,-30.64109776078646,,iWUE_OYC_GUA.xlsx,
+Guacamayos,6.0,Guacamayos_6,2006,p06-160,160.0,,Rubiaceae,Palicourea,stenosepala,leaf pulverized,43.5330956658599,-30.3665936006202,2.185479141082021,38.75023156085859,-1.14,-30.82,,iWUE_OYC_GUA.xlsx,
+Guacamayos,6.0,Guacamayos_6,2006,p06-161,161.0,8194.0,Meliaceae,Guarea,kunthiana,leaf pulverized,41.5574282648701,-30.2408233267637,3.1333592787915054,39.466621602268994,-1.35,-30.44,,iWUE_OYC_GUA.xlsx,
+Guacamayos,7.0,Guacamayos_7,2006,p07-190,190.0,8152.0,Rubiaceae,Joosia,umbellifera,leaf pulverized,44.1375880953595,-29.7346801098339,2.533905125836741,44.240777556884694,2.33,-31.56,,iWUE_OYC_GUA.xlsx,
+Guacamayos,7.0,Guacamayos_7,2006,p07-186,186.0,8151.0,Rubiaceae,Elaeagia,cf,leaf pulverized,44.4094427382361,-28.4495364199884,,,,,,iWUE_OYC_GUA.xlsx,
+Guacamayos,8.0,Guacamayos_8,2006,p08-208,208.0,8132.0,Euphorbiaceae,Hyeronima,sp,leaf pulverized,44.1670964148073,-30.7662210097165,1.9261209541301572,42.3511587670453,2.25,-31.89,,iWUE_OYC_GUA.xlsx,
+Guacamayos,8.0,Guacamayos_8,2006,p08-223,223.0,,Icacinaceae,Calatola,costaricensis,leaf pulverized,44.2617433800809,-28.8814160780333,3.544445873599856,45.0324943231333,-0.39,-29.51,,iWUE_OYC_GUA.xlsx,
+Guacamayos,8.0,Guacamayos_8,2006,p08-218,218.0,8136.0,Melastomataceae,Miconia,glandulistyla,leaf pulverized,44.8795891422905,-27.6152814359953,1.385853554463809,44.815615610026974,-1.79,-29.22,,iWUE_OYC_GUA.xlsx,
+Guacamayos,8.0,Guacamayos_8,2006,p08-218,218.0,8136.0,Melastomataceae,Miconia,glandulistyla,leaf pulverized,44.8795891422905,-27.6152814359953,1.28324732201899,41.231875843969114,-1.986708788052843,-29.53430209877506,,iWUE_OYC_GUA.xlsx,
+Guacamayos,8.0,Guacamayos_8,2006,p08-222,222.0,,Sapindaceae,Allophylus,floribundus,leaf pulverized,44.4425917116135,-26.7875784326478,2.482700425427824,46.59163218406722,-0.7,-29.01,,iWUE_OYC_GUA.xlsx,
+Guacamayos,55.0,Guacamayos_55,2006,p55-1649,1649.0,8122.0,Meliaceae,Ruagea,,leaf pulverized,43.9688681565033,-28.5017784171573,1.963926312531777,40.45696117330658,0.59,-30.52,,iWUE_OYC_GUA.xlsx,
+Guacamayos,55.0,Guacamayos_55,2006,p55-1648,1648.0,8123.0,Chloranthaceae,Hedyosmum,cuatrecazanum,leaf pulverized,43.2824149653684,-28.2325173230001,1.931454831112982,40.33671056095484,0.05,-30.58,,iWUE_OYC_GUA.xlsx,
+Guacamayos,55.0,Guacamayos_55,2006,p55-1666,1666.0,,Rubiaceae,Palicourea,corniculata,leaf pulverized,42.5117491237362,-29.5569165078273,2.1612392279686072,40.95726249347134,1.47,-30.51,,iWUE_OYC_GUA.xlsx,
+Guacamayos,55.0,Guacamayos_55,2006,p55-1659,1659.0,,Myrsinaceae,Cybianthus,occigranatensis,leaf pulverized,38.0220517661371,-26.7399075572636,2.159649639331145,36.22990403723563,2.79,-27.91,,iWUE_OYC_GUA.xlsx,
+Guacamayos,55.0,Guacamayos_55,2006,p55-1678,1678.0,8106.0,Rubiaceae,Faramea,oblongifolia,leaf pulverized,43.2943500023592,-28.9884721792639,1.8164117199262813,40.48176508759566,-0.48,-30.36,,iWUE_OYC_GUA.xlsx,
+Guacamayos,8.0,Guacamayos_8,2006,p08-206,206.0,,Rubiaceae,Palicourea,cf,leaf pulverized,42.0863074717965,-29.5738043285129,2.912461187577434,40.53996693433797,0.84,-30.03,,iWUE_OYC_GUA.xlsx,
+Guacamayos,55.0,Guacamayos_55,2006,p55-1653,1653.0,,Actinidiaceae,Saurauia,sp.,leaf pulverized,43.4645346303749,-31.1613934043707,1.743159137534957,40.70580967838457,2.15,-32.61,,iWUE_OYC_GUA.xlsx,
+Guacamayos,8.0,Guacamayos_8,2006,p08-212,212.0,8139.0,Cunoniaceae,Weinmannia,pinnata,leaf pulverized,40.3719427357773,-29.7396234387908,1.862176770779177,43.63167965876388,-2.56,-31.54,,iWUE_OYC_GUA.xlsx,
+Guacamayos,6.0,Guacamayos_6,2006,p06-168,168.0,,Rubiaceae,Palicourea,stenosepala,leaf pulverized,42.4081127377562,-29.9530213309851,2.447277889851237,39.30166920684579,-0.2,-29.98,,iWUE_OYC_GUA.xlsx,
+Guacamayos,55.0,Guacamayos_55,2006,p55-1654,1654.0,,Rubiaceae,Faramea,oblongifolia,leaf pulverized,43.5121387209819,-27.5488541344373,1.557489229414958,39.51619002096235,-1.62,-29.08,,iWUE_OYC_GUA.xlsx,
+Guacamayos,8.0,Guacamayos_8,2006,p08-214,214.0,8135.0,Lauraceae,Cryptocarya,aschersoniana,leaf pulverized,43.6088693700159,-31.6674229333118,1.920145378417257,46.34900290617749,-0.31,-33.48,,iWUE_OYC_GUA.xlsx,
+Guacamayos,55.0,Guacamayos_55,2006,p55-1645,1645.0,,Rubiaceae,Palicourea,stenosepala,leaf pulverized,43.6240424137866,-30.5377543510784,2.703386443962728,39.50691828828367,1.88,-31.17,,iWUE_OYC_GUA.xlsx,
+Guacamayos,55.0,Guacamayos_55,2006,p55-1672,1672.0,,Actinidiaceae,Saurauia,sp.,leaf pulverized,42.3664417049092,-27.4103398577115,2.034099942167312,44.410913471126726,-0.66,-29.38,,iWUE_OYC_GUA.xlsx,
+Guacamayos,7.0,Guacamayos_7,2006,p07-183,183.0,8150.0,Rubiaceae,Joosia,umbellifera,leaf pulverized,41.02,-30.2,2.797968727764726,43.538862565308825,3.78,-32.02,,iWUE_OYC_GUA.xlsx,
+Guacamayos,7.0,Guacamayos_7,2006,p07-183,183.0,8150.0,Rubiaceae,Joosia,umbellifera,leaf pulverized,41.02,-30.2,2.019997804176686,32.532148879918836,2.017886272257323,-28.07851681360693,,iWUE_OYC_GUA.xlsx,
+Guacamayos,7.0,Guacamayos_7,2006,p07-183,183.0,8150.0,Rubiaceae,Joosia,umbellifera,leaf pulverized,41.02,-30.2,2.938196230007473,42.21344425150206,4.020183802412406,-32.21653663103691,,iWUE_OYC_GUA.xlsx,
+Guacamayos,6.0,Guacamayos_6,2006,p06-157,157.0,8186.0,Euphorbiaceae,Sapium,stylare,,42.92,-28.53,3.645078452623074,41.61364593228006,5.87,-28.58,,iWUE_OYC_GUA.xlsx,
+Guacamayos,27.0,Guacamayos_27,2006,p27-669,669.0,,Meliaceae,Ruagea,cf,,41.43,-29.16,,,,,,iWUE_OYC_GUA.xlsx,
+Guacamayos,27.0,Guacamayos_27,2006,p27-682,682.0,,Meliaceae,Ruagea,cf,,38.34,-30.45,,,,,,iWUE_OYC_GUA.xlsx,
+Guacamayos,27.0,Guacamayos_27,2006,p27-687,687.0,,Euphorbiaceae,Margaritaria,,,44.76,-31.23,,,,,,iWUE_OYC_GUA.xlsx,
+Guacamayos,27.0,Guacamayos_27,2006,p27-694,694.0,,Rubiaceae,Joosia,umbellifera,,42.36,-28.27,,,,,,iWUE_OYC_GUA.xlsx,
+Guacamayos,27.0,Guacamayos_27,2006,p27-695,695.0,,Rubiaceae,Joosia,umbellifera,,41.82,-30.34,,,,,,iWUE_OYC_GUA.xlsx,
+Guacamayos,27.0,Guacamayos_27,2006,p27-696,696.0,,Rubiaceae,Elaeagia,,,41.83,-25.96,,,,,,iWUE_OYC_GUA.xlsx,
+Guacamayos,27.0,Guacamayos_27,2006,p27-704,704.0,,Rubiaceae,Palicourea,cf,,42.18,-30.11,,,,,,iWUE_OYC_GUA.xlsx,
+Guacamayos,27.0,Guacamayos_27,2006,p27-708,708.0,,Clethraceae,Clethra,fagifolia,,42.26,-30.48,,,,,,iWUE_OYC_GUA.xlsx,
+Guacamayos,27.0,Guacamayos_27,2006,p27-712,712.0,,Sapotaceae,Pouteria,baehniana,,42.31,-28.23,,,,,,iWUE_OYC_GUA.xlsx,
+Guacamayos,27.0,Guacamayos_27,2006,p27-714,714.0,,Myrsinaceae,Myrsine,coriaceae,,44.86,-30.17,,,,,,iWUE_OYC_GUA.xlsx,
