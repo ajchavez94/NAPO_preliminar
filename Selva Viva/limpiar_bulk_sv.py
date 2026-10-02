@@ -21,7 +21,7 @@ def limpiar_bulk(bulk_2026, herb):
     herb_2006["Type"] = partes[0]
     herb_2006["numeroCampo"] = partes[2].combine_first(partes[1])  # jh-3621 -> 3621; jh-p48-3708 -> 3708
 
-    herb["numeroCampo"] = pd.to_numeric(herb["numeroCampo"], errors="coerce")
+    herb["numeroCampo"] = pd.to_numeric(herb["JH"], errors="coerce")
     herb_2006["numeroCampo"] = pd.to_numeric(herb_2006["numeroCampo"], errors="coerce")
 
     # --- Merge ---
