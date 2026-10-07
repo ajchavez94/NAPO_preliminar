@@ -1,7 +1,7 @@
 import pandas as pd
 def limpiar_bulk(bulk_2026,herb):
  
- bulk_2026["Sample-ID"] = bulk_2026["Sample-ID"].replace({"pxx: 8669":"p48-8669","pxx-8640":"p24-8640","jh3621":"jh-3621","jh-pxx-3708":"jh-p48-3708"}) ### REVISAR tapirila
+ bulk_2026["Sample-ID"] = bulk_2026["Sample-ID"].replace({"pxx: 8669":"p48-8669","pxx-8640":"p24-8640","jh3621":"jh-3621","jh-pxx-3708":"jh-p48-3708","parkia-8634":"p23-8987","tapirila":"p50-8624"}) ### REVISAR tapirila
  
  herb_2006 = bulk_2026[bulk_2026["Sample-ID"].str.contains("jh", na=False)]
  herb_2006[["Type","Plot","numeroCampo"]] = herb_2006["Sample-ID"].str.split("-",expand=True)
